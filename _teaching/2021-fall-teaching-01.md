@@ -8,4 +8,4 @@ date: 2021-09-01
 location: "Waterloo, ON, Canada"
 ---
 
-Worked as TA for the CS 135 undergraduate-level course on Designing Functional Programs in University of Waterloo. Addressed students' doubts and marked student assignments weekly on Racket.
+<p style="font-size: 15px;">Worked as TA for the CS 135 undergraduate-level course on Designing Functional Programs in University of Waterloo. Addressed students' doubts and marked student assignments weekly on Racket.</p>

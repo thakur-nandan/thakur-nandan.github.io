@@ -8,4 +8,4 @@ date: 2023-05-01
 location: "Waterloo, ON, Canada"
 ---
 
-Worked as TA for the CS 241 undergraduate-level course on Foundations of Sequential Programs in University of Waterloo. Addressed students' doubts and marked student assignments weekly in C Programming.
+<p style="font-size: 15px;">Worked as TA for the CS 241 undergraduate-level course on Foundations of Sequential Programs in University of Waterloo. Addressed students' doubts and marked student assignments weekly in C Programming.</p>

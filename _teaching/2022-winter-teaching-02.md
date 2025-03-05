@@ -8,4 +8,4 @@ date: 2022-01-01
 location: "Waterloo, ON, Canada"
 ---
 
-Worked as TA for the CS 136 undergraduate-level course on Elementary Algorithm Design and Data Abstraction in University of Waterloo. Addressed students' doubts and marked student assignments weekly in C Programming.
+<p style="font-size: 15px;">Worked as TA for the CS 136 undergraduate-level course on Elementary Algorithm Design and Data Abstraction in University of Waterloo. Addressed students' doubts and marked student assignments weekly in C Programming.</p>

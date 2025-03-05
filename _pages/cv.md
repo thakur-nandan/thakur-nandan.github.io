@@ -7,49 +7,49 @@ redirect_from:
   - /resume
 ---
 
-Here is my Academic CV in a pdf format (Last updated in November 2023):
+Here is my Academic CV in the PDF format (Last updated in September 2024):
 
 <embed src="https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf" type="application/pdf" width="600px" height="500px" />
+<p></p>
+
+# Academic CV (Text Format)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, University of Waterloo, 2026 (expected)
+* B.E. (Hons.) in Electronics & Instrumentation, BITS Pilani, 2018
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Fall 2024: Internship at Databricks**
+  * Project: Building a code-based realistic RAG evaluation benchmark on niche topics.
+  * Supervisors: Omar Khattab, Sam Havens, Michael Carbin and Andrew Drozdov. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Winter & Summer 2024 : Internship at Vectara**
+  * Project: Building an effective multilingual RAG benchmark with heuristic & automatic features.
+  * Supervisors: Amin Ahmad and Suleman Kazi.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Fall 2022 & Winter 2023: Internship at Google Research**
+  * Project: Building an efficient multilingual embedding model using LLM-generated synthetic data.
+  * Supervisors: Daniel Cer and Jianmo Ni.
+
+* **Nov 2019 - Aug 2021: Research Assistant at UKP Lab, TU Darmstadt**
+  * Project: Building a zero-shot heterogeneous benchmark and data-efficient sentence embedding models.
+  * Supervisors: Nils Reimers and Iryna Gurevych.
+
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Sep 2018 - Oct 2018: Data Scientist at KNOLSKAPE**
+  * Project: Developed Krawler.ai, an deep text-based search engine built on Lucene.
+  * Manager: Chaithanya Yambari
 
-Publications
+Publications (List)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks (List)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -63,4 +63,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Shared-Task Lead Organizer on Retrieval Augmented Generation (RAG) Track at TREC 2024.
+* Competition Lead Organizer on MIRACL at WSDM Cup 2023.
+* Reviewer (*CL/NLP conferences): ACL Rolling Review: Oct-Nov (2021), Jan-Apr (2022)
+* Reviewer (ML conferences): NeurIPS 2023.
+* Reviewer (IR conferences): SIGIR 2023, ECIR 2024, NAACL 2024.

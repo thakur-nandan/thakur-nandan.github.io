@@ -7,85 +7,135 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর) [[CV]](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf). I'm a ~~(third)~~ fourth-year PhD student at [University of Waterloo](https://cs.uwaterloo.ca/) working on Information Retrieval (IR) and Natural Language Processing (NLP), building efficient embedding models and realistic evaluation benchmarks. I'm lucky to be advised by [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is partially supported by the David R. Cheriton Graduate Scholarship [[link](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)]. 
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ fourth-year PhD student at [University of Waterloo](https://cs.uwaterloo.ca/) working on building efficient embedding models and realistic evaluation benchmarks. I'm lucky to be advised by [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is partially supported by the David R. Cheriton Graduate Scholarship [[link](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)]. 
 
-My research is focused on three aspects: (i) Construct challenging \& realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize well to unseen challenging domains, and (iii) Standardize RAG evaluation, which builds trust within the IR \& NLP community. 
+My research is focused on three aspects: (i) Constructing challenging & realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains, and (iii) Standardizing RAG evaluation, building a better foundation within the IR & NLP community. 
 
-To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) \& [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
+To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
 
-I have previously interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. Previously, I worked at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Professor Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/), and KNOLSKAPE. I received my undergraduate degree from BITS Pilani KK Birla Goa Campus in 2018.
+I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. Previously, I worked at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Professor Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/), and KNOLSKAPE. I received my undergraduate degree from BITS Pilani KK Birla Goa Campus in 2018.
 
 <!-- I've been fortunate to be a part of [MIRACL](http://miracl.ai), [SWIM-IR](https://github.com/google-research-datasets/swim-ir) and similar datasets. Recently, I have been working on better evaluation of Retrieval-Augmented Generation (RAG) systems, where I am co-hosting the first ever RAG competition in TREC 2024: [TREC 2024 RAG](https://trec-rag.github.io). -->
 <!-- During my PhD, I've been involved in many research collaborations, including [SnowFlake AI](https://www.snowflake.com/en/), [Vectara](https://vectara.com/) and [Huawei](http://dev3.noahlab.com.hk/). I've also been fortunate to intern at [Google Research](https://research.google/).  -->
 <!-- Before my PhD, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall & Winter 2017). -->
 
 
-Visit [Research](/publications/) to learn more about my research. You can reach me at nandan.thakur@uwaterloo.ca or nandant@gmail.com. I'd love to hear from you!
+Visit [Research](/publications/) to learn more about my work. You can reach me at nandan.thakur@uwaterloo.ca. I'd love to hear from you!
 
 Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
 
-## :fire: Recent Updates
-<span style="color:red">I am looking for (remote) research internships in Summer 2025!</span>
+<span style="color:red">PS: I am looking for (remote) research internships in Summer 2025!</span>
 
+<details markdown="1"><summary><b>:fire: 2025 (Recent Updates)</b></summary>
+- **[Jan 2025]** :speaking_head: Gave a research talk on "Accelerating Multilingual RAG Systems" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
+- **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems" is now accepted at NAACL 2025.
+- **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
+
+</details>
 
 ## :scroll: Papers
 
-<p><strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
+<p style="font-size: 15px;"><strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
 <u>N Thakur</u>, S Kazi, G Luo, J Lin, A Ahmad<br>
-<strong> NAACL 2025</strong> (to appear) | <a href="https://arxiv.org/abs/2410.13716">paper</a> | <a href=https://github.com/vectara/mirage-bench>code</a>
+<strong> NAACL 2025</strong> (to appear) | <a href="https://arxiv.org/abs/2410.13716">paper</a> | <a href="https://github.com/vectara/mirage-bench">code</a>
 </p>
 
-<p><strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
+<p style="font-size: 15px;"><strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
 K Enevoldsen, I Chung, ..., <u>N Thakur</u>, ..., N Muennighoff<br>
 <strong> ICLR 2025</strong> (to appear) | <a href="https://openreview.net/forum?id=zl3pfz4VCV">paper</a>
 </p>
 
-<p><strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
+<p style="font-size: 15px;"><strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
 R Pradeep*, <u>N Thakur*</u>, S Sharifymoghaddam, E Zhang, R Nguyen, D Campos, N Craswell, J Lin<br>
 <strong>ECIR 2025 (Findings)</strong> (to appear) | <a href="https://arxiv.org/abs/2411.09607">paper</a>
 </p>
 
-<p><strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
+<p style="font-size: 15px;"><strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
 R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
 <strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2411.09607">paper</a>
 </p>
 
-<p><strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
+<p style="font-size: 15px;"><strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
 S Upadhyay, R Pradeep, <u>N Thakur</u>, D Campos, N Craswell, I Soboroff, H T Dang, J Lin<br>
 <strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2411.08275">paper</a>
 </p>
 
-<p><strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
+<p style="font-size: 15px;"><strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
 S Upadhyay, R Pradeep, <u>N Thakur</u>, N Craswell, J Lin<br>
 <strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2406.06519">paper</a>
 </p>
 
-<p><strong>“Knowing When You Don’t Know”: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation</strong><br>
-<u>N Thakur</u>, L Bonifacio, X Zhang, O Ogundepo, E Kamalloo, D A Hermelo, X Li, Q Liu, B Chen, M Rezagholizadeh, J Lin<br>
+<p style="font-size: 15px;"><strong>“Knowing When You Don’t Know”: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation</strong><br>
+<u>N Thakur</u>, L Bonifacio, X Zhang, O Ogundepo, E Kamalloo, D A Hermelo, ..., M Rezagholizadeh, J Lin<br>
 <strong>EMNLP 2024 (Findings)</strong> | <a href="https://aclanthology.org/2024.findings-emnlp.730/">paper</a>
 </p>
 
-<p><strong>Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR</strong><br>
+<p style="font-size: 15px;"><strong>Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR</strong><br>
 <u>N Thakur</u>, L Bonifacio, M Fröbe, A Bondarenko, E Kamalloo, M Potthast, M Hagen, J Lin<br>
 <strong>SIGIR 2024 (Repro)</strong> | <a href="https://dl.acm.org/doi/10.1145/3626772.3657861">paper</a>
 </p>
 
-<p><strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
+<p style="font-size: 15px;"><strong>Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses</strong><br>
+E Kamalloo, <u>N Thakur</u>, C Lassance, X Ma, JH Yang, J Lin<br>
+<strong>SIGIR 2024 (Resource)</strong> | <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657862">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
 <u>N Thakur</u>, J Ni, G H Abrego, J Wieting, J Lin, D Cer<br>
 <strong>NAACL 2024</strong> | <a href="https://aclanthology.org/2024.naacl-long.426/">paper</a>
 </p>
 
-<p><strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
-<u>N Thakur</u>, J Ni, G H Abrego, J Wieting, J Lin, D Cer<br>
-<strong>NAACL 2024</strong> | <a href="https://aclanthology.org/2024.naacl-long.426/">paper</a>
+<p style="font-size: 15px;"><strong>HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution</strong><br>
+E Kamalloo, A Jafari, X Zhang, <u>N Thakur</u>, J Lin<br>
+<strong>Preprint 2023</strong> | <a href="https://arxiv.org/abs/2307.16883">paper</a>
 </p>
 
+<p style="font-size: 15px;"><strong>Simple Yet Effective Neural Ranking and Reranking Baselines for Cross-Lingual Information Retrieval</strong><br>
+J Lin, D Alfonso-Hermelo, V Jeronymo, E Kamalloo, C Lassance, ..., <u>N Thakur</u>, JH Yang, X Zhang<br>
+<strong>Preprint 2023</strong> | <a href="https://arxiv.org/pdf/2304.01019">paper</a>
+</p>
 
-## Old News
+<p style="font-size: 15px;"><strong>MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages</strong><br>
+X Zhang*, <u>N Thakur*</u>, O Ogundepo, E Kamalloo, D A Hermelo, ..., M Rezagholizadeh, J Lin<br>
+<strong>TACL 2023</strong> | <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00595/117438">paper</a>
+</p>
 
+<p style="font-size: 15px;"><strong>Evaluating Embedding APIs for Information Retrieval</strong><br>
+E Kamalloo, X Zhang, O Ogundepo, <u>N Thakur</u>, D A Hermelo, M Rezagholizadeh, J Lin<br>
+<strong>ACL 2023 (Industry)</strong> | <a href="https://aclanthology.org/2023.acl-industry.50/">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval</strong><br>
+<u>N Thakur</u>, K Wang, I Gurevych, J Lin<br>
+<strong>SIGIR 2023 (Resource)</strong> | <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>Injecting Domain Adaptation with Learning-to-hash for Effective and Efficient Zero-shot Dense Retrieval</strong><br>
+<u>N Thakur</u>, N Reimers, J Lin<br>
+<strong>ReNeuIR 2023</strong> | <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval</strong><br>
+K Wang, <u>N Thakur</u>, N Reimers, I Gurevych<br>
+<strong>NAACL 2022</strong> | <a href="https://aclanthology.org/2022.naacl-main.168/">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models</strong><br>
+<u>N Thakur</u>, N Reimers, A Rücklé, A Srivastava, I Gurevych<br>
+<strong>NeurIPS 2021 (D&B)</strong> | <a href="https://arxiv.org/abs/2104.08663">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks</strong><br>
+<u>N Thakur</u>, N Reimers, J Daxenberger, I Gurevych<br>
+<strong>NAACL 2021</strong> | <a href="https://aclanthology.org/2021.naacl-main.28/">paper</a>
+</p>
+
+## Old Updates
 
 <details markdown="1"><summary><b>2024</b></summary>
-
+- **[Dec 2024]** :page_facing_up: My work on "Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track" has been accepted at **ECIR 2025 (Resource)**.
+- **[Sep 2024]** :computer: I started my Fall 2024 internship at <span style="color:red">Databricks</span> in San Francisco, mentored by Omar Khattab and managed by Sam Havens and Michael Carbin.
+- **[Aug 2024]** :fire: We have received over 40+ participants in the first year of the TREC 2024 RAG Track. One of the best participated tracks up to date!
 - **[May 2024]** :trophy: I have been awarded the <span style="color:red">David R. Cheriton Graduate Scholarship</span> starting Fall 2024 for my scholastic excellence in my PhD! [[Link]](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)
 - **[May 2024]** :handshake: Collaboration with Snowflake AI towards building better BEIRv2 and TREC-RAG [[blogpost]](https://www.snowflake.com/blog/snowflake-ai-research-joins-forces-with-the-university-of-waterloo/).
 - **[Apr 2024]** :airplane: I will be attending in-person NAACL 2024 in Mexico City, Mexico between 16-20 June 2024 and SIGIR in Washington DC, USA between 14-18 July 2024. If interested, do reach out!
