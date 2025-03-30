@@ -9,29 +9,24 @@ redirect_from:
 
 :wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ fourth-year PhD student at [University of Waterloo](https://cs.uwaterloo.ca/) working on building efficient embedding models and realistic evaluation benchmarks. I'm lucky to be advised by [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is partially supported by the David R. Cheriton Graduate Scholarship [[link](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)]. 
 
-My research is focused on three aspects: (i) Constructing challenging & realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains, and (iii) Standardizing RAG evaluation, building a better foundation within the IR & NLP community. 
-
-To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
-
 I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. Previously, I worked at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Professor Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/), and KNOLSKAPE. I received my undergraduate degree from BITS Pilani KK Birla Goa Campus in 2018.
-
-<!-- I've been fortunate to be a part of [MIRACL](http://miracl.ai), [SWIM-IR](https://github.com/google-research-datasets/swim-ir) and similar datasets. Recently, I have been working on better evaluation of Retrieval-Augmented Generation (RAG) systems, where I am co-hosting the first ever RAG competition in TREC 2024: [TREC 2024 RAG](https://trec-rag.github.io). -->
-<!-- During my PhD, I've been involved in many research collaborations, including [SnowFlake AI](https://www.snowflake.com/en/), [Vectara](https://vectara.com/) and [Huawei](http://dev3.noahlab.com.hk/). I've also been fortunate to intern at [Google Research](https://research.google/).  -->
-<!-- Before my PhD, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall & Winter 2017). -->
-
 
 Visit [Research](/publications/) to learn more about my work. You can reach me at nandan.thakur@uwaterloo.ca. I'd love to hear from you!
 
 Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
 
-<span style="color:red">PS: I am looking for (remote) research internships in Summer 2025!</span>
+<span style="color:red">PS: I will be in the academic job market in 2026!</span>
 
-<details markdown="1"><summary><b>:fire: 2025 (Recent Updates)</b></summary>
+## :mag: Research
+
+My research is focused on three aspects: (i) Constructing challenging & realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains, and (iii) Standardizing RAG evaluation, building a better foundation within the IR & NLP community. 
+
+To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
+
+## :fire: 2025 (Recent Updates)
 - **[Jan 2025]** :speaking_head: Gave a research talk on "Accelerating Multilingual RAG Systems" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
 - **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems" is now accepted at NAACL 2025.
 - **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
-
-</details>
 
 ## :scroll: Papers
 

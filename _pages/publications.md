@@ -5,8 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## :mag: Research Interests
-My research interests lie within NLP and Information Retrieval. I like to study and work on building easy, scalable, and efficient systems in the neural search paradigm. My long-term research ambition lies in building robust and generalizable retrieval models to help serve information better for everyone. Few of my notable works include developing the BEIR Benchmark [(Thakur et al., 2021)](https://openreview.net/forum?id=wCu6T5xFjeJ) and Augmented SBERT [(Thakur et al., 2021)](https://aclanthology.org/2021.naacl-main.28/). 
+## :mag: Research
+
+My research is focused on three aspects: (i) Constructing challenging & realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains, and (iii) Standardizing RAG evaluation, building a better foundation within the IR & NLP community. 
+
+To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
+
 
 ### :bar_chart: Data Efficiency: Transfer Learning, Data Augmentation, and Zero-shot Learning 
 In order to train neural retriever systems, large amounts of human-labeled training data are required, which is often cumbersome and expensive to generate for real-world tasks. Data efficiency plays a crucial role in addressing this challenge. Transfer learning is motivated by distilling knowledge from pretrained models or LLMs to train data-efficient models. Data augmentation techniques involve generating high-quality synthetic data for training purposes. Zero-shot learning enables models to generalize to unseen classes or queries without any training examples.
