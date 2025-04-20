@@ -15,7 +15,7 @@ Visit [Research](/publications/) to learn more about my work. You can reach me a
 
 Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
 
-<span style="color:red">PS: I will be in the academic job market in 2026!</span>
+<!-- <span style="color:red">PS: I will be in the academic job market in 2026!</span> -->
 
 ## :mag: Research
 
@@ -24,30 +24,37 @@ My research is focused on three aspects: (i) Constructing challenging & realisti
 To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
 
 ## :fire: 2025 (Recent Updates)
+- **[Apr 2025]** :page_facing_up: My exciting internship work at Databricks on FreshStack to create realistic RAG benchmarks is available on arXiv!
+- **[Apr 2025]** :partying_face: Our TREC 2024 RAG support (to be arxived soon) and Nuggets preprints have been accepted at SIGIR 2025!
 - **[Jan 2025]** :speaking_head: Gave a research talk on "Accelerating Multilingual RAG Systems" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
 - **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems" is now accepted at NAACL 2025.
 - **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
 
 ## :scroll: Papers
 
-<p style="font-size: 15px;"><strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
-<u>N Thakur</u>, S Kazi, G Luo, J Lin, A Ahmad<br>
-<strong> NAACL 2025</strong> (to appear) | <a href="https://arxiv.org/abs/2410.13716">paper</a> | <a href="https://github.com/vectara/mirage-bench">code</a>
-</p>
-
-<p style="font-size: 15px;"><strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
-K Enevoldsen, I Chung, ..., <u>N Thakur</u>, ..., N Muennighoff<br>
-<strong> ICLR 2025</strong> (to appear) | <a href="https://openreview.net/forum?id=zl3pfz4VCV">paper</a>
-</p>
-
-<p style="font-size: 15px;"><strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
-R Pradeep*, <u>N Thakur*</u>, S Sharifymoghaddam, E Zhang, R Nguyen, D Campos, N Craswell, J Lin<br>
-<strong>ECIR 2025 (Findings)</strong> (to appear) | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+<p style="font-size: 15px;"><strong>FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents</strong><br>
+<u>N Thakur</u>, J Lin, S Havens, M Carbin, O Khattab, A Drozdov<br>
+<strong>Preprint 2025</strong> | <a href="https://arxiv.org/abs/2504.13128">paper</a> | <a href="https://fresh-stack.github.io">website</a>
 </p>
 
 <p style="font-size: 15px;"><strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
 R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
-<strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+<strong>SIGIR 2025</strong> (to appear) | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
+R Pradeep*, <u>N Thakur*</u>, S Sharifymoghaddam, E Zhang, R Nguyen, D Campos, N Craswell, J Lin<br>
+<strong>ECIR 2025 (Findings)</strong> | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+</p>
+
+<p style="font-size: 15px;"><strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
+<u>N Thakur</u>, S Kazi, G Luo, J Lin, A Ahmad<br>
+<strong> NAACL 2025</strong> | <a href="https://arxiv.org/abs/2410.13716">paper</a> | <a href="https://github.com/vectara/mirage-bench">code</a> | <a href="https://mirage-bench.github.io">website</a>
+</p>
+
+<p style="font-size: 15px;"><strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
+K Enevoldsen, I Chung, ..., <u>N Thakur</u>, ..., N Muennighoff<br>
+<strong> ICLR 2025</strong> | <a href="https://openreview.net/forum?id=zl3pfz4VCV">paper</a>
 </p>
 
 <p style="font-size: 15px;"><strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
