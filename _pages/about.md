@@ -77,106 +77,250 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
   R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
 <strong>SIGIR 2025</strong> (to appear) |
   <span class="publication-links">
-    <a href="https://arxiv.org/abs/2504.15205" class="paper">
+    <a href="https://arxiv.org/abs/2411.09607" class="paper">
       <i class="fas fa-file-alt"></i> [paper]
     </a>
   </span>
 </p>
 
 <p style="font-size: 15px;">
-  <strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
-  R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
-<strong>SIGIR 2025</strong> (to appear) | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+  <strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
+  R Pradeep*, <u>N Thakur*</u>, S Sharifymoghaddam, E Zhang, R Nguyen, D Campos, N Craswell, J Lin<br>
+  <strong>ECIR 2025 (Findings)</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2411.09607" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
-R Pradeep*, <u>N Thakur*</u>, S Sharifymoghaddam, E Zhang, R Nguyen, D Campos, N Craswell, J Lin<br>
-<strong>ECIR 2025 (Findings)</strong> | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+<p style="font-size: 15px;">
+  <strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
+  <u>N Thakur</u>, S Kazi, G Luo, J Lin, A Ahmad<br>
+  <strong>NAACL 2025</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2410.13716" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/vectara/mirage-bench" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+    <a href="https://mirage-bench.github.io" class="website">
+      <i class="fas fa-globe"></i> [website]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
-<u>N Thakur</u>, S Kazi, G Luo, J Lin, A Ahmad<br>
-<strong> NAACL 2025</strong> | <a href="https://arxiv.org/abs/2410.13716">paper</a> | <a href="https://github.com/vectara/mirage-bench">code</a> | <a href="https://mirage-bench.github.io">website</a>
+<p style="font-size: 15px;">
+  <strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
+  K Enevoldsen, I Chung, ..., <u>N Thakur</u>, ..., N Muennighoff<br>
+  <strong>ICLR 2025</strong> |
+  <span class="publication-links">
+    <a href="https://openreview.net/forum?id=zl3pfz4VCV" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://huggingface.co/spaces/mteb/leaderboard" class="website">
+      <i class="fas fa-globe"></i> [website]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
-K Enevoldsen, I Chung, ..., <u>N Thakur</u>, ..., N Muennighoff<br>
-<strong> ICLR 2025</strong> | <a href="https://openreview.net/forum?id=zl3pfz4VCV">paper</a> | <a href="https://huggingface.co/spaces/mteb/leaderboard">website</a>
+<p style="font-size: 15px;">
+  <strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
+  S Upadhyay, R Pradeep, <u>N Thakur</u>, D Campos, N Craswell, I Soboroff, H T Dang, J Lin<br>
+  <strong>Preprint 2024</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2411.08275" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
-S Upadhyay, R Pradeep, <u>N Thakur</u>, D Campos, N Craswell, I Soboroff, H T Dang, J Lin<br>
-<strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2411.08275">paper</a>
+<p style="font-size: 15px;">
+  <strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
+  S Upadhyay, R Pradeep, <u>N Thakur</u>, N Craswell, J Lin<br>
+  <strong>Preprint 2024</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2406.06519" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/castorini/umbrela" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
-S Upadhyay, R Pradeep, <u>N Thakur</u>, N Craswell, J Lin<br>
-<strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2406.06519">paper</a> | <a href="https://github.com/castorini/umbrela">code</a>
+<p style="font-size: 15px;">
+  <strong>“Knowing When You Don’t Know”: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation</strong><br>
+  <u>N Thakur</u>, L Bonifacio, X Zhang, O Ogundepo, E Kamalloo, D A Hermelo, ..., M Rezagholizadeh, J Lin<br>
+  <strong>EMNLP 2024 (Findings)</strong> |
+  <span class="publication-links">
+    <a href="https://aclanthology.org/2024.findings-emnlp.730/" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/project-miracl/nomiracl" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>“Knowing When You Don’t Know”: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation</strong><br>
-<u>N Thakur</u>, L Bonifacio, X Zhang, O Ogundepo, E Kamalloo, D A Hermelo, ..., M Rezagholizadeh, J Lin<br>
-<strong>EMNLP 2024 (Findings)</strong> | <a href="https://aclanthology.org/2024.findings-emnlp.730/">paper</a> | <a href="https://github.com/project-miracl/nomiracl">code</a>
+<p style="font-size: 15px;">
+  <strong>Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR</strong><br>
+  <u>N Thakur</u>, L Bonifacio, M Fröbe, A Bondarenko, E Kamalloo, M Potthast, M Hagen, J Lin<br>
+  <strong>SIGIR 2024 (Repro)</strong> |
+  <span class="publication-links">
+    <a href="https://dl.acm.org/doi/10.1145/3626772.3657861" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/castorini/touche-error-analysis" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR</strong><br>
-<u>N Thakur</u>, L Bonifacio, M Fröbe, A Bondarenko, E Kamalloo, M Potthast, M Hagen, J Lin<br>
-<strong>SIGIR 2024 (Repro)</strong> | <a href="https://dl.acm.org/doi/10.1145/3626772.3657861">paper</a> | <a href="https://github.com/castorini/touche-error-analysis">code</a>
+<p style="font-size: 15px;">
+  <strong>Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses</strong><br>
+  E Kamalloo, <u>N Thakur</u>, C Lassance, X Ma, JH Yang, J Lin<br>
+  <strong>SIGIR 2024 (Resource)</strong> |
+  <span class="publication-links">
+    <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657862" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses</strong><br>
-E Kamalloo, <u>N Thakur</u>, C Lassance, X Ma, JH Yang, J Lin<br>
-<strong>SIGIR 2024 (Resource)</strong> | <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657862">paper</a>
+<p style="font-size: 15px;">
+  <strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
+  <u>N Thakur</u>, J Ni, G H Abrego, J Wieting, J Lin, D Cer<br>
+  <strong>NAACL 2024</strong> |
+  <span class="publication-links">
+    <a href="https://aclanthology.org/2024.naacl-long.426/" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/google-research-datasets/swim-ir" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
-<u>N Thakur</u>, J Ni, G H Abrego, J Wieting, J Lin, D Cer<br>
-<strong>NAACL 2024</strong> | <a href="https://aclanthology.org/2024.naacl-long.426/">paper</a> | <a href="https://github.com/google-research-datasets/swim-ir">code</a>
+<p style="font-size: 15px;">
+  <strong>HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution</strong><br>
+  E Kamalloo, A Jafari, X Zhang, <u>N Thakur</u>, J Lin<br>
+  <strong>Preprint 2023</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2307.16883" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution</strong><br>
-E Kamalloo, A Jafari, X Zhang, <u>N Thakur</u>, J Lin<br>
-<strong>Preprint 2023</strong> | <a href="https://arxiv.org/abs/2307.16883">paper</a>
+<p style="font-size: 15px;">
+  <strong>Simple Yet Effective Neural Ranking and Reranking Baselines for Cross-Lingual Information Retrieval</strong><br>
+  J Lin, D Alfonso-Hermelo, V Jeronymo, E Kamalloo, C Lassance, ..., <u>N Thakur</u>, JH Yang, X Zhang<br>
+  <strong>Preprint 2023</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/pdf/2304.01019" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Simple Yet Effective Neural Ranking and Reranking Baselines for Cross-Lingual Information Retrieval</strong><br>
-J Lin, D Alfonso-Hermelo, V Jeronymo, E Kamalloo, C Lassance, ..., <u>N Thakur</u>, JH Yang, X Zhang<br>
-<strong>Preprint 2023</strong> | <a href="https://arxiv.org/pdf/2304.01019">paper</a>
+<p style="font-size: 15px;">
+  <strong>MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages</strong><br>
+  X Zhang*, <u>N Thakur*</u>, O Ogundepo, E Kamalloo, D A Hermelo, ..., M Rezagholizadeh, J Lin<br>
+  <strong>TACL 2023</strong> |
+  <span class="publication-links">
+    <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00595/117438" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://project-miracl.github.io" class="website">
+      <i class="fas fa-globe"></i> [website]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages</strong><br>
-X Zhang*, <u>N Thakur*</u>, O Ogundepo, E Kamalloo, D A Hermelo, ..., M Rezagholizadeh, J Lin<br>
-<strong>TACL 2023</strong> | <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00595/117438">paper</a> | <a href="https://project-miracl.github.io">website</a>
+<p style="font-size: 15px;">
+  <strong>Evaluating Embedding APIs for Information Retrieval</strong><br>
+  E Kamalloo, X Zhang, O Ogundepo, <u>N Thakur</u>, D A Hermelo, M Rezagholizadeh, J Lin<br>
+  <strong>ACL 2023 (Industry)</strong> |
+  <span class="publication-links">
+    <a href="https://aclanthology.org/2023.acl-industry.50/" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Evaluating Embedding APIs for Information Retrieval</strong><br>
-E Kamalloo, X Zhang, O Ogundepo, <u>N Thakur</u>, D A Hermelo, M Rezagholizadeh, J Lin<br>
-<strong>ACL 2023 (Industry)</strong> | <a href="https://aclanthology.org/2023.acl-industry.50/">paper</a> 
+<p style="font-size: 15px;">
+  <strong>SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval</strong><br>
+  <u>N Thakur</u>, K Wang, I Gurevych, J Lin<br>
+  <strong>SIGIR 2023 (Resource)</strong> |
+  <span class="publication-links">
+    <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/thakur-nandan/sprint" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval</strong><br>
-<u>N Thakur</u>, K Wang, I Gurevych, J Lin<br>
-<strong>SIGIR 2023 (Resource)</strong> | <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902">paper</a> | <a href="https://github.com/thakur-nandan/sprint">code</a>
+<p style="font-size: 15px;">
+  <strong>Injecting Domain Adaptation with Learning-to-hash for Effective and Efficient Zero-shot Dense Retrieval</strong><br>
+  <u>N Thakur</u>, N Reimers, J Lin<br>
+  <strong>ReNeuIR 2023</strong> |
+  <span class="publication-links">
+    <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/thakur-nandan/income" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Injecting Domain Adaptation with Learning-to-hash for Effective and Efficient Zero-shot Dense Retrieval</strong><br>
-<u>N Thakur</u>, N Reimers, J Lin<br>
-<strong>ReNeuIR 2023</strong> | <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902">paper</a> | <a href="https://github.com/thakur-nandan/income">code</a>
+<p style="font-size: 15px;">
+  <strong>GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval</strong><br>
+  K Wang, <u>N Thakur</u>, N Reimers, I Gurevych<br>
+  <strong>NAACL 2022</strong> |
+  <span class="publication-links">
+    <a href="https://aclanthology.org/2022.naacl-main.168/" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/UKPLab/gpl" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval</strong><br>
-K Wang, <u>N Thakur</u>, N Reimers, I Gurevych<br>
-<strong>NAACL 2022</strong> | <a href="https://aclanthology.org/2022.naacl-main.168/">paper</a> | <a href="https://github.com/UKPLab/gpl">code</a>
+<p style="font-size: 15px;">
+  <strong>BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models</strong><br>
+  <u>N Thakur</u>, N Reimers, A Rücklé, A Srivastava, I Gurevych<br>
+  <strong>NeurIPS 2021 (D&B)</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2104.08663" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://beir.ai" class="website">
+      <i class="fas fa-globe"></i> [website]
+    </a>
+    <a href="https://beir.ai" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models</strong><br>
-<u>N Thakur</u>, N Reimers, A Rücklé, A Srivastava, I Gurevych<br>
-<strong>NeurIPS 2021 (D&B)</strong> | <a href="https://arxiv.org/abs/2104.08663">paper</a> | <a href="https://beir.ai">website</a> | <a href="https://beir.ai">code</a>
-</p>
-
-<p style="font-size: 15px;"><strong>Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks</strong><br>
-<u>N Thakur</u>, N Reimers, J Daxenberger, I Gurevych<br>
-<strong>NAACL 2021</strong> | <a href="https://aclanthology.org/2021.naacl-main.28/">paper</a> | <a href="https://sbert.net/examples/sentence_transformer/training/data_augmentation/README.html">website</a>
+<p style="font-size: 15px;">
+  <strong>Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks</strong><br>
+  <u>N Thakur</u>, N Reimers, J Daxenberger, I Gurevych<br>
+  <strong>NAACL 2021</strong> |
+  <span class="publication-links">
+    <a href="https://aclanthology.org/2021.naacl-main.28/" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://sbert.net/examples/sentence_transformer/training/data_augmentation/README.html" class="website">
+      <i class="fas fa-globe"></i> [website]
+    </a>
+  </span>
 </p>
 
 ## Old Updates
