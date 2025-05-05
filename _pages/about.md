@@ -24,17 +24,28 @@ My research is focused on three aspects: (i) Constructing challenging & realisti
 To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
 
 ## :fire: 2025 (Recent Updates)
+- **[May 2025]** :page_facing_up: Our new work on nuggetizing search arena RAG answers is available as a preprint now!
 - **[Apr 2025]** :page_facing_up: My exciting internship work at Databricks on FreshStack to create realistic RAG benchmarks is available on arXiv!
-- **[Apr 2025]** :partying_face: Our TREC 2024 RAG support (to be arxived soon) and Nuggets preprints have been accepted at SIGIR 2025!
+- **[Apr 2025]** :partying_face: Our TREC 2024 RAG support and Nuggets preprints have been accepted at SIGIR 2025!
 - **[Jan 2025]** :speaking_head: Gave a research talk on "Accelerating Multilingual RAG Systems" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
 - **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems" is now accepted at NAACL 2025.
 - **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
 
 ## :scroll: Papers
 
+<p style="font-size: 15px;"><strong>Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses</strong><br>
+S Sharifymoghaddam*, S Upadhyay*, <u>N Thakur*</u>, R Pradeep, J Lin<br>
+<strong>Preprint 2025</strong> | <a href="https://arxiv.org/abs/2504.20006">paper</a>
+</p>
+
 <p style="font-size: 15px;"><strong>FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents</strong><br>
 <u>N Thakur</u>, J Lin, S Havens, M Carbin, O Khattab, A Drozdov<br>
 <strong>Preprint 2025</strong> | <a href="https://arxiv.org/abs/2504.13128">paper</a> | <a href="https://fresh-stack.github.io">website</a>
+</p>
+
+<p style="font-size: 15px;"><strong>Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges</strong><br>
+<u>N Thakur</u>, R Pradeep, S Upadhyay, D Campos, N Craswell, J Lin<br>
+<strong>SIGIR 2025 (short)</strong> (to appear) | <a href="https://arxiv.org/abs/2504.15205">paper</a>
 </p>
 
 <p style="font-size: 15px;"><strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
