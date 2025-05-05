@@ -43,11 +43,11 @@ Work Experience
   * Project: Developed Krawler.ai, an deep text-based search engine built on Lucene.
   * Manager: Chaithanya Yambari
 
-Publications (List)
+<!-- Publications (List)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks (List)
 ======
