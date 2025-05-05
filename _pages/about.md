@@ -33,6 +33,7 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 
 ## :scroll: Papers
 
+### 2025 
 <p style="font-size: 15px;">
   <strong>Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses</strong><br>
   S Sharifymoghaddam*, S Upadhyay*, <u>N Thakur*</u>, R Pradeep, J Lin<br>
@@ -125,6 +126,8 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
   </span>
 </p>
 
+### 2024 
+
 <p style="font-size: 15px;">
   <strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
   S Upadhyay, R Pradeep, <u>N Thakur</u>, D Campos, N Craswell, I Soboroff, H T Dang, J Lin<br>
@@ -203,6 +206,8 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
   </span>
 </p>
 
+### 2023
+
 <p style="font-size: 15px;">
   <strong>HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution</strong><br>
   E Kamalloo, A Jafari, X Zhang, <u>N Thakur</u>, J Lin<br>
@@ -278,6 +283,8 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
   </span>
 </p>
 
+### 2022
+
 <p style="font-size: 15px;">
   <strong>GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval</strong><br>
   K Wang, <u>N Thakur</u>, N Reimers, I Gurevych<br>
@@ -291,6 +298,8 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
     </a>
   </span>
 </p>
+
+### 2021
 
 <p style="font-size: 15px;">
   <strong>BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models</strong><br>

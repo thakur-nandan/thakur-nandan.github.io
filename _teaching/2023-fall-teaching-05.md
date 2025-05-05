@@ -1,7 +1,7 @@
 ---
 title: "CS 370 Numerical Approximation"
 collection: teaching
-type: "Winter 2024, Spring 2024 & Winter 2025"
+type: "Winter 2024 & 2025, Spring 2024 & 2025"
 permalink: /teaching/2023-fall-teaching-05
 venue: "University of Waterloo"
 date: 2025-01-01
