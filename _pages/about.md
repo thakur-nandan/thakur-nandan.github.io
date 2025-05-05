@@ -44,7 +44,7 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
   </span>
 </p>
 
-<!-- <p style="font-size: 15px;">
+<p style="font-size: 15px;">
   <strong>FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents</strong><br>
   <u>N Thakur</u>, J Lin, S Havens, M Carbin, O Khattab, A Drozdov<br>
   <strong>Preprint 2025</strong> |
@@ -54,6 +54,9 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
     </a>
     <a href="https://fresh-stack.github.io" class="website">
       <i class="fas fa-globe"></i> [website]
+    </a>
+    <a href="https://huggingface.co/freshstack" class="dataset">
+      <i class="fas fa-database"></i> [dataset]
     </a>
   </span>
 </p>
@@ -69,25 +72,20 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
   </span>
 </p>
 
-
-
-<p style="font-size: 15px;"><strong>Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses</strong><br>
-S Sharifymoghaddam*, S Upadhyay*, <u>N Thakur*</u>, R Pradeep, J Lin<br>
-<strong>Preprint 2025</strong> | <a href="https://arxiv.org/abs/2504.20006">paper</a>
-</p> -->
-
-<p style="font-size: 15px;"><strong>FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents</strong><br>
-<u>N Thakur</u>, J Lin, S Havens, M Carbin, O Khattab, A Drozdov<br>
-<strong>Preprint 2025</strong> | <a href="https://arxiv.org/abs/2504.13128">paper</a> | <a href="https://fresh-stack.github.io">website</a>
+<p style="font-size: 15px;">
+  <strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
+  R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
+<strong>SIGIR 2025</strong> (to appear) |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2504.15205" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+  </span>
 </p>
 
-<p style="font-size: 15px;"><strong>Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges</strong><br>
-<u>N Thakur</u>, R Pradeep, S Upadhyay, D Campos, N Craswell, J Lin<br>
-<strong>SIGIR 2025 (short)</strong> (to appear) | <a href="https://arxiv.org/abs/2504.15205">paper</a>
-</p>
-
-<p style="font-size: 15px;"><strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
-R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
+<p style="font-size: 15px;">
+  <strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
+  R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
 <strong>SIGIR 2025</strong> (to appear) | <a href="https://arxiv.org/abs/2411.09607">paper</a>
 </p>
 
