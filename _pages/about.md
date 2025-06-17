@@ -21,9 +21,10 @@ Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_la
 
 My research is focused on three aspects: (i) Constructing challenging & realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains, and (iii) Standardizing RAG evaluation, building a better foundation within the IR & NLP community. 
 
-To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
+To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains](https://arxiv.org/abs/2505.16967) and [languages](https://arxiv.org/abs/2410.13716).
 
 ## :fire: 2025 (Recent Updates)
+- **[Jun 2025]** :speaking_head: I have been invited to talk at Hamel's mini RAG course on "Modern Information Retrieval Evaluation In The RAG Era". Sign up here: [[https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era]](https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era).
 - **[May 2025]** :page_facing_up: Our new work on nuggetizing search arena RAG answers is available as a preprint now!
 - **[Apr 2025]** :page_facing_up: My exciting internship work at Databricks on FreshStack to create realistic RAG benchmarks is available on arXiv!
 - **[Apr 2025]** :partying_face: Our TREC 2024 RAG support and Nuggets preprints have been accepted at SIGIR 2025!
@@ -34,6 +35,24 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 ## :scroll: Papers
 
 ### 2025 
+<p style="font-size: 15px;">
+  <strong>Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval</strong><br>
+  <u>N Thakur*</u>, C. Zhang*, X. Ma, J Lin<br>
+  <strong>Preprint 2025</strong> |
+  <span class="publication-links">
+    <a href="https://arxiv.org/abs/2505.16967" class="paper">
+      <i class="fas fa-file-alt"></i> [paper]
+    </a>
+    <a href="https://github.com/castorini/rlhn" class="dataset">
+      <i class="fas fa-database"></i> [dataset]
+    </a>
+    <a href="https://github.com/castorini/rlhn" class="code">
+      <i class="fas fa-code"></i> [code]
+    </a>
+  </span>
+</p>
+
+
 <p style="font-size: 15px;">
   <strong>Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses</strong><br>
   S Sharifymoghaddam*, S Upadhyay*, <u>N Thakur*</u>, R Pradeep, J Lin<br>
@@ -58,6 +77,9 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
     </a>
     <a href="https://huggingface.co/freshstack" class="dataset">
       <i class="fas fa-database"></i> [dataset]
+    </a>
+    <a href="https://github.com/fresh-stack/freshstack" class="code">
+      <i class="fas fa-code"></i> [code]
     </a>
   </span>
 </p>
