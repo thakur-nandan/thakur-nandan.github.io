@@ -60,6 +60,7 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
     <button type="button" data-conf="iclr">ICLR</button>
     <button type="button" data-conf="emnlp">EMNLP</button>
     <button type="button" data-conf="acl">ACL</button>
+    <button type="button" data-conf="ecir">ECIR</button>
     <button type="button" data-conf="tacl">TACL</button>
     <button type="button" data-conf="neurips">NeurIPS</button>
   </div>
@@ -111,16 +112,16 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 </div>
 
 <div class="card sigir" data-year="2025" data-conf="SIGIR">
-  <strong>Initial Nugget Evaluation for the TREC 2024 RAG Track</strong><br>
-  With the AutoNuggetizer Framework<br>
+  <strong>The Great Nugget Recall: Automating Fact Extraction and RAG Evaluation with Large Language Models</strong><br>
   R. Pradeep, <u>N. Thakur</u>, S. Upadhyay, D. Campos, N. Craswell, J. Lin<br>
   <strong>SIGIR 2025</strong><br>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2411.09607"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://arxiv.org/abs/2504.15068"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://github.com/castorini/nuggetizer"><i class="fas fa-code"></i> Code</a>
   </div>
 </div>
 
-<div class="card preprint" data-year="2025" data-conf="preprint">
+<div class="card ecir" data-year="2025" data-conf="ECIR">
   <strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
   R. Pradeep*, <u>N. Thakur*</u>, S. Sharifymoghaddam, E. Zhang, R. Nguyen, D. Campos, N. Craswell, J. Lin<br>
   <strong>ECIR 2025 (Findings)</strong><br>
@@ -151,10 +152,10 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 </div>
 
 <!-- 2024 -->
-<div class="card preprint" data-year="2024" data-conf="preprint">
+<div class="card sigir" data-year="2024" data-conf="SIGIR">
   <strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
   S. Upadhyay, R. Pradeep, <u>N. Thakur</u>, D. Campos, N. Craswell, I. Soboroff, H. T. Dang, J. Lin<br>
-  <strong>Preprint 2024</strong><br>
+  <strong>ICTIR 2024</strong><br>
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2411.08275"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
@@ -257,7 +258,7 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
   </div>
 </div>
 
-<div class="card preprint" data-year="2023" data-conf="preprint">
+<div class="card sigir" data-year="2023" data-conf="SIGIR">
   <strong>Injecting Domain Adaptation with Learning-to-hash for Effective and Efficient Zero-shot Dense Retrieval</strong><br>
   <u>N. Thakur</u>, N. Reimers, J. Lin<br>
   <strong>ReNeuIR 2023</strong><br>

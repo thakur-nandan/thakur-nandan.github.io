@@ -200,10 +200,11 @@
 
 /* Preprint button (light gray bg + dark text) */
 .filter-controls button[data-conf="preprint"].active {
-  background-color: var(--color-preprint);
-  border-color:     var(--color-preprint);
-  color:            #000 !important;
+  background-color: #444;      /* dark gray */
+  border-color:     #444;
+  color:            #fff !important;
   opacity:          1 !important;
+  box-shadow:       0 2px 6px rgba(0,0,0,0.2);
 }
 
 /* Conference-specific active fills */
@@ -248,4 +249,33 @@
   border-color:     var(--color-neurips);
   color:            #fff !important;
   opacity:          1 !important;
+}
+
+/* ─── ECIR Color Token ───────────────────────────────────────────────── */
+:root {
+  --color-ecir: #e91e63; /* hot pink */
+}
+
+/* ─── ECIR Card Styles ───────────────────────────────────────────────── */
+.card.ecir {
+  background-color: #fde0ef;
+  border-left-color: var(--color-ecir);
+}
+.card.ecir:hover {
+  background-color: rgba(233, 30, 99, 0.08);
+}
+
+/* ─── ECIR Button Outline (non-active) ───────────────────────────────── */
+.filter-controls button[data-conf="ecir"]:not(.active) {
+  border-color: var(--color-ecir);
+  color: var(--color-ecir);
+}
+
+/* ─── ECIR Button Active State ─────────────────────────────────────────── */
+.filter-controls button[data-conf="ecir"].active {
+  background-color: var(--color-ecir);
+  border-color:     var(--color-ecir);
+  color:            #fff !important;
+  opacity:          1 !important;
+  box-shadow:       0 2px 6px rgba(0,0,0,0.2);
 }
