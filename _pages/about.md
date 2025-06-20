@@ -35,23 +35,26 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 ## :scroll: Selected Publications
 
 <div class="filter-controls">
-  <label for="year-filter">Year:</label>
-    <button value="all">All</button>
-    <button type="button" data-year="2025" class="active">2025</button>
-    <button type="button" data-year="2024" >2024</button>
-    <button type="button" data-year="2023" >2023</button>
-    <button type="button" data-year="2022" >2022</button>
-    <button type="button" data-year="2021" >2021</button>
-  <label for="conf-filter">Conference:</label>
-    <button type="button" data-conf="all" class="active">All types</button>
-    <button type="button" data-conf="preprint">Preprint</button>
-    <button type="button" data-conf="SIGIR">SIGIR</button>
-    <button type="button" data-conf="NAACL">NAACL</button>
-    <button type="button" data-conf="ICLR">ICLR</button>
-    <button type="button" data-conf="EMNLP">EMNLP</button>
-    <button type="button" data-conf="ACL">ACL</button>
-    <button type="button" data-conf="TACL">TACL</button>
-    <button type="button" data-conf="NeurIPS">NeurIPS</button>
+  <!-- Year filters -->
+  <label>Year:</label>
+  <button type="button" data-year="all" class="active">All</button>
+  <button type="button" data-year="2025">2025</button>
+  <button type="button" data-year="2024">2024</button>
+  <button type="button" data-year="2023">2023</button>
+  <button type="button" data-year="2022">2022</button>
+  <button type="button" data-year="2021">2021</button>
+
+  <!-- Conference filters -->
+  <label>Conference:</label>
+  <button type="button" data-conf="all" class="active">All</button>
+  <button type="button" data-conf="preprint">Preprint</button>
+  <button type="button" data-conf="SIGIR">SIGIR</button>
+  <button type="button" data-conf="NAACL">NAACL</button>
+  <button type="button" data-conf="ICLR">ICLR</button>
+  <button type="button" data-conf="EMNLP">EMNLP</button>
+  <button type="button" data-conf="ACL">ACL</button>
+  <button type="button" data-conf="TACL">TACL</button>
+  <button type="button" data-conf="NeurIPS">NeurIPS</button>
 </div>
 
 <div class="publications-grid">
@@ -287,115 +290,7 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
     | <a href="https://sbert.net/examples/sentence_transformer/training/data_augmentation/README.html"><i class="fas fa-globe"></i> Website</a>
   </div>
 </div>
-
 </div>
-
-<style>
-  /* Color vars */
-  :root {
-    --color-sigir:   #28a745;
-    --color-naacl:   #6f42c1;
-    --color-iclr:    #fd7e14;
-    --color-emnlp:   #007bff;
-    --color-acl:     #dc3545;
-    --color-tacl:    #20c997;
-    --color-neurips: #ff7f50;
-    --color-preprint:#f8f9fa;
-  }
-
-  .filter-controls {
-    display: flex;
-    gap: 1rem;
-    margin: 1.5rem 0;
-    flex-wrap: wrap;
-    align-items: baseline;
-  }
-  .filter-controls label {
-    font-weight: 600;
-  }
-  .filter-controls select {
-    padding: 0.25rem 0.5rem;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-
-  .publications-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1rem;
-  }
-  .card {
-    background: #fafafa;
-    border-left: 4px solid var(--color-preprint);
-    border-radius: 0.5rem;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    padding: 1rem;
-    transition: transform 0.2s, background-color 0.2s;
-  }
-  .card:hover {
-    transform: translateY(-4px);
-  }
-  .card a {
-    text-decoration: none;
-    margin-right: 0.5rem;
-  }
-  .icon {
-    width: 1rem;
-    vertical-align: text-bottom;
-    margin-right: 0.25rem;
-  }
-
-  .publication-links {
-    margin: 0 0.25em;
-  }
-
-  /* Conference highlight styles */
-  .card.sigir   { background-color: #e8f5e9; border-left-color: var(--color-sigir); }
-  .card.sigir:hover   { background-color: rgba(40,167,69,0.08); }
-  .card.naacl   { background-color: #f3e5f5; border-left-color: var(--color-naacl); }
-  .card.naacl:hover   { background-color: rgba(111,66,193,0.08); }
-  .card.iclr    { background-color: #fff3e0; border-left-color: var(--color-iclr); }
-  .card.iclr:hover    { background-color: rgba(253,126,20,0.08); }
-  .card.emnlp   { background-color: #e3f2fd; border-left-color: var(--color-emnlp); }
-  .card.emnlp:hover   { background-color: rgba(0,123,255,0.08); }
-  .card.acl     { background-color: #ffebee; border-left-color: var(--color-acl); }
-  .card.acl:hover     { background-color: rgba(220,53,69,0.08); }
-  .card.tacl    { background-color: #e0f7fa; border-left-color: var(--color-tacl); }
-  .card.tacl:hover    { background-color: rgba(32,201,151,0.08); }
-  .card.neurips { background-color: #fbe9e7; border-left-color: var(--color-neurips); }
-  .card.neurips:hover { background-color: rgba(255,127,80,0.08); }
-  /* Preprint uses default var */
-</style>
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const cards       = Array.from(document.querySelectorAll('.publications-grid .card'));
-  const confButtons = document.querySelectorAll('.filter-controls button[data-conf]');
-
-  function filterByConf(conf) {
-    cards.forEach(card => {
-      const cardConf = card.dataset.conf.toLowerCase();
-      card.style.display = (conf === 'all' || cardConf === conf)
-                         ? 'block'
-                         : 'none';
-    });
-  }
-
-  confButtons.forEach(btn => {
-    btn.addEventListener('click', () => {
-      // 1) Remove .active from all buttons, add to this one
-      confButtons.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-
-      // 2) Filter cards
-      filterByConf(btn.dataset.conf.toLowerCase());
-    });
-  });
-
-  // init (optional: show all)
-  filterByConf('all');
-});
-</script>
 
 ## Old Updates
 

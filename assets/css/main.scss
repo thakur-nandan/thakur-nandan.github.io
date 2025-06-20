@@ -49,10 +49,122 @@
     transition: color 0.3s;
   }
   
-  .publication-links a:hover {
-    color: #005f99;
-  }
-  
-  .publication-links i {
-    margin-right: 5px;
-  }
+.publication-links a:hover {
+  color: #005f99;
+}
+
+.publication-links i {
+  margin-right: 5px;
+}
+
+/* Color vars */
+:root {
+  --color-sigir:   #28a745;
+  --color-naacl:   #6f42c1;
+  --color-iclr:    #fd7e14;
+  --color-emnlp:   #007bff;
+  --color-acl:     #dc3545;
+  --color-tacl:    #20c997;
+  --color-neurips: #ff7f50;
+  --color-preprint:#f8f9fa;
+}
+
+.filter-controls {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+.filter-controls label {
+  font-weight: 600;
+}
+.filter-controls select {
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.publications-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+.card {
+  background: #fafafa;
+  border-left: 4px solid var(--color-preprint);
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 1rem;
+  transition: transform 0.2s, background-color 0.2s;
+}
+.card:hover {
+  transform: translateY(-4px);
+}
+.card a {
+  text-decoration: none;
+  margin-right: 0.5rem;
+}
+.icon {
+  width: 1rem;
+  vertical-align: text-bottom;
+  margin-right: 0.25rem;
+}
+
+.publication-links {
+  margin: 0 0.25em;
+}
+
+/* Conference highlight styles */
+.card.sigir   { background-color: #e8f5e9; border-left-color: var(--color-sigir); }
+.card.sigir:hover   { background-color: rgba(40,167,69,0.08); }
+.card.naacl   { background-color: #f3e5f5; border-left-color: var(--color-naacl); }
+.card.naacl:hover   { background-color: rgba(111,66,193,0.08); }
+.card.iclr    { background-color: #fff3e0; border-left-color: var(--color-iclr); }
+.card.iclr:hover    { background-color: rgba(253,126,20,0.08); }
+.card.emnlp   { background-color: #e3f2fd; border-left-color: var(--color-emnlp); }
+.card.emnlp:hover   { background-color: rgba(0,123,255,0.08); }
+.card.acl     { background-color: #ffebee; border-left-color: var(--color-acl); }
+.card.acl:hover     { background-color: rgba(220,53,69,0.08); }
+.card.tacl    { background-color: #e0f7fa; border-left-color: var(--color-tacl); }
+.card.tacl:hover    { background-color: rgba(32,201,151,0.08); }
+.card.neurips { background-color: #fbe9e7; border-left-color: var(--color-neurips); }
+.card.neurips:hover { background-color: rgba(255,127,80,0.08); }
+
+.filter-controls button {
+  background: #fff;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding: 0.3em 0.6em;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+  color: #333;
+}
+
+/* conference button base colors */
+.filter-controls button[data-conf="sigir"]  { border-color: var(--color-sigir);  color: var(--color-sigir);  }
+.filter-controls button[data-conf="naacl"]  { border-color: var(--color-naacl);  color: var(--color-naacl);  }
+.filter-controls button[data-conf="iclr"]   { border-color: var(--color-iclr);   color: var(--color-iclr);   }
+.filter-controls button[data-conf="emnlp"]  { border-color: var(--color-emnlp);  color: var(--color-emnlp);  }
+.filter-controls button[data-conf="acl"]    { border-color: var(--color-acl);    color: var(--color-acl);    }
+.filter-controls button[data-conf="tacl"]   { border-color: var(--color-tacl);   color: var(--color-tacl);   }
+.filter-controls button[data-conf="neurips"]{ border-color: var(--color-neurips);color: var(--color-neurips);}
+.filter-controls button[data-conf="preprint"]{ border-color: var(--color-preprint); color: #666; } /* neutral */
+
+/* active state: filled background + white text */
+.filter-controls button.active {
+  color: #fff;
+}
+.filter-controls button[data-conf="sigir"].active   { background-color: var(--color-sigir);   }
+.filter-controls button[data-conf="naacl"].active   { background-color: var(--color-naacl);   }
+.filter-controls button[data-conf="iclr"].active    { background-color: var(--color-iclr);    }
+.filter-controls button[data-conf="emnlp"].active   { background-color: var(--color-emnlp);   }
+.filter-controls button[data-conf="acl"].active     { background-color: var(--color-acl);     }
+.filter-controls button[data-conf="tacl"].active    { background-color: var(--color-tacl);    }
+.filter-controls button[data-conf="neurips"].active { background-color: var(--color-neurips); }
+.filter-controls button[data-conf="preprint"].active{ background-color: #ddd;                 }
+
+/* hover for non-active */
+.filter-controls button:hover:not(.active) {
+  background-color: rgba(0,0,0,0.05);
+}  
