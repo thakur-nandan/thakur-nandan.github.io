@@ -36,218 +36,257 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 
 <div class="filter-controls">
   <label for="year-filter">Year:</label>
-  <select id="year-filter">
-    <option value="all">All</option>
-    <option>2025</option>
-    <option>2024</option>
-    <option>2023</option>
-    <option>2022</option>
-    <option>2021</option>
-  </select>
+    <button value="all">All</button>
+    <button type="button" data-year="2025" class="active">2025</button>
+    <button type="button" data-year="2024" >2024</button>
+    <button type="button" data-year="2023" >2023</button>
+    <button type="button" data-year="2022" >2022</button>
+    <button type="button" data-year="2021" >2021</button>
   <label for="conf-filter">Conference:</label>
-  <select id="conf-filter">
-    <option value="all">All</option>
-    <option value="preprint">Preprint</option>
-    <option value="SIGIR">SIGIR</option>
-    <option value="NAACL">NAACL</option>
-    <option value="ICLR">ICLR</option>
-    <option value="EMNLP">EMNLP</option>
-    <option value="ACL">ACL</option>
-    <option value="TACL">TACL</option>
-    <option value="NeurIPS">NeurIPS</option>
-  </select>
+    <button type="button" data-conf="all" class="active">All types</button>
+    <button type="button" data-conf="preprint">Preprint</button>
+    <button type="button" data-conf="SIGIR">SIGIR</button>
+    <button type="button" data-conf="NAACL">NAACL</button>
+    <button type="button" data-conf="ICLR">ICLR</button>
+    <button type="button" data-conf="EMNLP">EMNLP</button>
+    <button type="button" data-conf="ACL">ACL</button>
+    <button type="button" data-conf="TACL">TACL</button>
+    <button type="button" data-conf="NeurIPS">NeurIPS</button>
 </div>
 
 <div class="publications-grid">
 
-  <!-- 2025 -->
-  <div class="card preprint" data-year="2025" data-conf="preprint">
-    <strong>Fixing Data That Hurts Performance</strong><br>
-    Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval<br>
-    <u>N. Thakur*</u>, C. Zhang*, X. Ma, J. Lin<br>
-    <strong>Preprint 2025</strong> •
-    <a href="https://arxiv.org/abs/2505.16967"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/castorini/rlhn"><img src="/assets/icons/database.svg" class="icon" alt="Dataset">Dataset</a>
-    <a href="https://github.com/castorini/rlhn"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<!-- 2025 -->
+<div class="card preprint" data-year="2025" data-conf="preprint">
+  <strong>Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval</strong><br>
+  <u>N. Thakur*</u>, C. Zhang*, X. Ma, J. Lin<br>
+  <strong>Preprint 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2505.16967"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://huggingface.co/rlhn"><i class="fas fa-database"></i> Dataset</a>
+    | <a href="https://github.com/castorini/rlhn"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <div class="card preprint" data-year="2025" data-conf="preprint">
-    <strong>Chatbot Arena Meets Nuggets</strong><br>
-    Towards Explanations &amp; Diagnostics in the Evaluation of LLM Responses<br>
-    S. Sharifymoghaddam*, S. Upadhyay*, <u>N. Thakur*</u>, R. Pradeep, J. Lin<br>
-    <strong>Preprint 2025</strong> •
-    <a href="https://arxiv.org/abs/2504.20006"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<div class="card preprint" data-year="2025" data-conf="preprint">
+  <strong>Chatbot Arena Meets Nuggets: Towards Explanations & Diagnostics in the Evaluation of LLM Responses</strong><br>
+  S. Sharifymoghaddam*, S. Upadhyay*, <u>N. Thakur*</u>, R. Pradeep, J. Lin<br>
+  <strong>Preprint 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2504.20006"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card preprint" data-year="2025" data-conf="preprint">
-    <strong>FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents</strong><br>
-    <u>N. Thakur</u>, J. Lin, S. Havens, M. Carbin, O. Khattab, A. Drozdov<br>
-    <strong>Preprint 2025</strong> •
-    <a href="https://arxiv.org/abs/2504.13128"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://fresh-stack.github.io"><img src="/assets/icons/globe.svg" class="icon" alt="Website">Website</a>
-    <a href="https://huggingface.co/freshstack"><img src="/assets/icons/database.svg" class="icon" alt="Dataset">Dataset</a>
-    <a href="https://github.com/fresh-stack/freshstack"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<div class="card preprint" data-year="2025" data-conf="preprint">
+  <strong>FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents</strong><br>
+  <u>N. Thakur</u>, J. Lin, S. Havens, M. Carbin, O. Khattab, A. Drozdov<br>
+  <strong>Preprint 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2504.13128"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://fresh-stack.github.io"><i class="fas fa-globe"></i> Website</a>
+    | <a href="https://huggingface.co/freshstack"><i class="fas fa-database"></i> Dataset</a>
+    | <a href="https://github.com/fresh-stack/freshstack"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <div class="card sigir" data-year="2025" data-conf="SIGIR">
-    <strong>Support Evaluation for the TREC 2024 RAG Track</strong><br>
-    Comparing Human versus LLM Judges<br>
-    <u>N. Thakur</u>, R. Pradeep, S. Upadhyay, D. Campos, N. Craswell, J. Lin<br>
-    <strong>SIGIR 2025 (short)</strong> •
-    <a href="https://arxiv.org/abs/2504.15205"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<div class="card sigir" data-year="2025" data-conf="SIGIR">
+  <strong>Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges</strong><br>
+  <u>N. Thakur</u>, R. Pradeep, S. Upadhyay, D. Campos, N. Craswell, J. Lin<br>
+  <strong>SIGIR 2025 (short)</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2504.15205"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card sigir" data-year="2025" data-conf="SIGIR">
-    <strong>Initial Nugget Evaluation for the TREC 2024 RAG Track</strong><br>
-    With the AutoNuggetizer Framework<br>
-    R. Pradeep, <u>N. Thakur</u>, S. Upadhyay, D. Campos, N. Craswell, J. Lin<br>
-    <strong>SIGIR 2025</strong> •
-    <a href="https://arxiv.org/abs/2411.09607"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<div class="card sigir" data-year="2025" data-conf="SIGIR">
+  <strong>Initial Nugget Evaluation for the TREC 2024 RAG Track</strong><br>
+  With the AutoNuggetizer Framework<br>
+  R. Pradeep, <u>N. Thakur</u>, S. Upadhyay, D. Campos, N. Craswell, J. Lin<br>
+  <strong>SIGIR 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2411.09607"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card preprint" data-year="2025" data-conf="preprint">
-    <strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
-    R. Pradeep*, <u>N. Thakur*</u>, S. Sharifymoghaddam, E. Zhang, R. Nguyen, D. Campos, N. Craswell, J. Lin<br>
-    <strong>ECIR 2025 (Findings)</strong> •
-    <a href="https://arxiv.org/abs/2411.09607"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<div class="card preprint" data-year="2025" data-conf="preprint">
+  <strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
+  R. Pradeep*, <u>N. Thakur*</u>, S. Sharifymoghaddam, E. Zhang, R. Nguyen, D. Campos, N. Craswell, J. Lin<br>
+  <strong>ECIR 2025 (Findings)</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2411.09607"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card naacl" data-year="2025" data-conf="NAACL">
-    <strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
-    <u>N. Thakur</u>, S. Kazi, G. Luo, J. Lin, A. Ahmad<br>
-    <strong>NAACL 2025</strong> •
-    <a href="https://arxiv.org/abs/2410.13716"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/vectara/mirage-bench"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
-    <a href="https://mirage-bench.github.io"><img src="/assets/icons/globe.svg" class="icon" alt="Website">Website</a>
+<div class="card naacl" data-year="2025" data-conf="NAACL">
+  <strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
+  <u>N. Thakur</u>, S. Kazi, G. Luo, J. Lin, A. Ahmad<br>
+  <strong>NAACL 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2410.13716"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/vectara/mirage-bench"><i class="fas fa-code"></i> Code</a>
+    | <a href="https://mirage-bench.github.io"><i class="fas fa-globe"></i> Website</a>
   </div>
+</div>
 
-  <div class="card iclr" data-year="2025" data-conf="ICLR">
-    <strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
-    K. Enevoldsen, I. Chung, …, <u>N. Thakur</u>, …<br>
-    <strong>ICLR 2025</strong> •
-    <a href="https://openreview.net/forum?id=zl3pfz4VCV"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://huggingface.co/spaces/mteb/leaderboard"><img src="/assets/icons/globe.svg" class="icon" alt="Website">Website</a>
+<div class="card iclr" data-year="2025" data-conf="ICLR">
+  <strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
+  K. Enevoldsen, I. Chung, …, <u>N. Thakur</u>, …<br>
+  <strong>ICLR 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://openreview.net/forum?id=zl3pfz4VCV"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://huggingface.co/spaces/mteb/leaderboard"><i class="fas fa-globe"></i> Website</a>
   </div>
+</div>
 
-  <!-- 2024 -->
-  <div class="card preprint" data-year="2024" data-conf="preprint">
-    <strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
-    S. Upadhyay, R. Pradeep, <u>N. Thakur</u>, D. Campos, N. Craswell, I. Soboroff, H. T. Dang, J. Lin<br>
-    <strong>Preprint 2024</strong> •
-    <a href="https://arxiv.org/abs/2411.08275"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<!-- 2024 -->
+<div class="card preprint" data-year="2024" data-conf="preprint">
+  <strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
+  S. Upadhyay, R. Pradeep, <u>N. Thakur</u>, D. Campos, N. Craswell, I. Soboroff, H. T. Dang, J. Lin<br>
+  <strong>Preprint 2024</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2411.08275"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card preprint" data-year="2024" data-conf="preprint">
-    <strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
-    S. Upadhyay, R. Pradeep, <u>N. Thakur</u>, N. Craswell, J. Lin<br>
-    <strong>Preprint 2024</strong> •
-    <a href="https://arxiv.org/abs/2406.06519"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/castorini/umbrela"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<div class="card preprint" data-year="2024" data-conf="preprint">
+  <strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
+  S. Upadhyay, R. Pradeep, <u>N. Thakur</u>, N. Craswell, J. Lin<br>
+  <strong>Preprint 2024</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2406.06519"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/castorini/umbrela"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <div class="card emnlp" data-year="2024" data-conf="EMNLP">
-    <strong>“Knowing When You Don’t Know”: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation</strong><br>
-    <u>N. Thakur</u>, L. Bonifacio, X. Zhang, O. Ogundepo, E. Kamalloo, D. A. Hermelo, …, M. Rezagholizadeh, J. Lin<br>
-    <strong>EMNLP 2024 (Findings)</strong> •
-    <a href="https://aclanthology.org/2024.findings-emnlp.730/"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/project-miracl/nomiracl"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<div class="card emnlp" data-year="2024" data-conf="EMNLP">
+  <strong>“Knowing When You Don’t Know”: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation</strong><br>
+  <u>N. Thakur</u>, L. Bonifacio, X. Zhang, O. Ogundepo, E. Kamalloo, D. A. Hermelo, …, M. Rezagholizadeh, J. Lin<br>
+  <strong>EMNLP 2024 (Findings)</strong><br>
+  <div class="publication-links">
+    <a href="https://aclanthology.org/2024.findings-emnlp.730/"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/project-miracl/nomiracl"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <div class="card sigir" data-year="2024" data-conf="SIGIR">
-    <strong>Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR</strong><br>
-    <u>N. Thakur</u>, L. Bonifacio, M. Fröbe, A. Bondarenko, E. Kamalloo, M. Potthast, M. Hagen, J. Lin<br>
-    <strong>SIGIR 2024 (Repro)</strong> •
-    <a href="https://dl.acm.org/doi/10.1145/3626772.3657861"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/castorini/touche-error-analysis"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<div class="card sigir" data-year="2024" data-conf="SIGIR">
+  <strong>Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR</strong><br>
+  <u>N. Thakur</u>, L. Bonifacio, M. Fröbe, A. Bondarenko, E. Kamalloo, M. Potthast, M. Hagen, J. Lin<br>
+  <strong>SIGIR 2024 (Repro)</strong><br>
+  <div class="publication-links">
+    <a href="https://dl.acm.org/doi/10.1145/3626772.3657861"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/castorini/touche-error-analysis"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <div class="card sigir" data-year="2024" data-conf="SIGIR">
-    <strong>Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses</strong><br>
-    E. Kamalloo, <u>N. Thakur</u>, C. Lassance, X. Ma, J. H. Yang, J. Lin<br>
-    <strong>SIGIR 2024 (Resource)</strong> •
-    <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657862"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<div class="card sigir" data-year="2024" data-conf="SIGIR">
+  <strong>Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses</strong><br>
+  E. Kamalloo, <u>N. Thakur</u>, C. Lassance, X. Ma, J. H. Yang, J. Lin<br>
+  <strong>SIGIR 2024 (Resource)</strong><br>
+  <div class="publication-links">
+    <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657862"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card naacl" data-year="2024" data-conf="NAACL">
-    <strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
-    <u>N. Thakur</u>, J. Ni, G. H. Abrego, J. Wieting, J. Lin, D. Cer<br>
-    <strong>NAACL 2024</strong> •
-    <a href="https://aclanthology.org/2024.naacl-long.426/"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/google-research-datasets/swim-ir"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<div class="card naacl" data-year="2024" data-conf="NAACL">
+  <strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
+  <u>N. Thakur</u>, J. Ni, G. H. Abrego, J. Wieting, J. Lin, D. Cer<br>
+  <strong>NAACL 2024</strong><br>
+  <div class="publication-links">
+    <a href="https://aclanthology.org/2024.naacl-long.426/"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/google-research-datasets/swim-ir"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <!-- 2023 -->
-  <div class="card preprint" data-year="2023" data-conf="preprint">
-    <strong>HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution</strong><br>
-    E. Kamalloo, A. Jafari, X. Zhang, <u>N. Thakur</u>, J. Lin<br>
-    <strong>Preprint 2023</strong> •
-    <a href="https://arxiv.org/abs/2307.16883"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<!-- 2023 -->
+<div class="card preprint" data-year="2023" data-conf="preprint">
+  <strong>HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution</strong><br>
+  E. Kamalloo, A. Jafari, X. Zhang, <u>N. Thakur</u>, J. Lin<br>
+  <strong>Preprint 2023</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2307.16883"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card preprint" data-year="2023" data-conf="preprint">
-    <strong>Simple Yet Effective Neural Ranking and Reranking Baselines for Cross-Lingual Information Retrieval</strong><br>
-    J. Lin, D. Alfonso-Hermelo, V. Jeronymo, E. Kamalloo, C. Lassance, …, <u>N. Thakur</u>, J. H. Yang, X. Zhang<br>
-    <strong>Preprint 2023</strong> •
-    <a href="https://arxiv.org/pdf/2304.01019"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<div class="card preprint" data-year="2023" data-conf="preprint">
+  <strong>Simple Yet Effective Neural Ranking and Reranking Baselines for Cross-Lingual Information Retrieval</strong><br>
+  J. Lin, D. Alfonso-Hermelo, V. Jeronymo, E. Kamalloo, C. Lassance, …, <u>N. Thakur</u>, J. H. Yang, X. Zhang<br>
+  <strong>Preprint 2023</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/pdf/2304.01019"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card tacl" data-year="2023" data-conf="TACL">
-    <strong>MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages</strong><br>
-    X. Zhang*, <u>N. Thakur*</u>, O. Ogundepo, E. Kamalloo, D. A. Hermelo, …, M. Rezagholizadeh, J. Lin<br>
-    <strong>TACL 2023</strong> •
-    <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00595/117438"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://project-miracl.github.io"><img src="/assets/icons/globe.svg" class="icon" alt="Website">Website</a>
+<div class="card tacl" data-year="2023" data-conf="TACL">
+  <strong>MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages</strong><br>
+  X. Zhang*, <u>N. Thakur*</u>, O. Ogundepo, E. Kamalloo, D. A. Hermelo, …, M. Rezagholizadeh, J. Lin<br>
+  <strong>TACL 2023</strong><br>
+  <div class="publication-links">
+    <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00595/117438"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://project-miracl.github.io"><i class="fas fa-globe"></i> Website</a>
   </div>
+</div>
 
-  <div class="card acl" data-year="2023" data-conf="ACL">
-    <strong>Evaluating Embedding APIs for Information Retrieval</strong><br>
-    E. Kamalloo, X. Zhang, O. Ogundepo, <u>N. Thakur</u>, D. A. Hermelo, M. Rezagholizadeh, J. Lin<br>
-    <strong>ACL 2023 (Industry)</strong> •
-    <a href="https://aclanthology.org/2023.acl-industry.50/"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
+<div class="card acl" data-year="2023" data-conf="ACL">
+  <strong>Evaluating Embedding APIs for Information Retrieval</strong><br>
+  E. Kamalloo, X. Zhang, O. Ogundepo, <u>N. Thakur</u>, D. A. Hermelo, M. Rezagholizadeh, J. Lin<br>
+  <strong>ACL 2023 (Industry)</strong><br>
+  <div class="publication-links">
+    <a href="https://aclanthology.org/2023.acl-industry.50/"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
+</div>
 
-  <div class="card sigir" data-year="2023" data-conf="SIGIR">
-    <strong>SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval</strong><br>
-    <u>N. Thakur</u>, K. Wang, I. Gurevych, J. Lin<br>
-    <strong>SIGIR 2023 (Resource)</strong> •
-    <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/thakur-nandan/sprint"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<div class="card sigir" data-year="2023" data-conf="SIGIR">
+  <strong>SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval</strong><br>
+  <u>N. Thakur</u>, K. Wang, I. Gurevych, J. Lin<br>
+  <strong>SIGIR 2023 (Resource)</strong><br>
+  <div class="publication-links">
+    <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/thakur-nandan/sprint"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <div class="card preprint" data-year="2023" data-conf="preprint">
-    <strong>Injecting Domain Adaptation with Learning-to-hash for Effective and Efficient Zero-shot Dense Retrieval</strong><br>
-    <u>N. Thakur</u>, N. Reimers, J. Lin<br>
-    <strong>ReNeuIR 2023</strong> •
-    <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/thakur-nandan/income"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<div class="card preprint" data-year="2023" data-conf="preprint">
+  <strong>Injecting Domain Adaptation with Learning-to-hash for Effective and Efficient Zero-shot Dense Retrieval</strong><br>
+  <u>N. Thakur</u>, N. Reimers, J. Lin<br>
+  <strong>ReNeuIR 2023</strong><br>
+  <div class="publication-links">
+    <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591902"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/thakur-nandan/income"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <!-- 2022 -->
-  <div class="card naacl" data-year="2022" data-conf="NAACL">
-    <strong>GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval</strong><br>
-    K. Wang, <u>N. Thakur</u>, N. Reimers, I. Gurevych<br>
-    <strong>NAACL 2022</strong> •
-    <a href="https://aclanthology.org/2022.naacl-main.168/"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://github.com/UKPLab/gpl"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<!-- 2022 -->
+<div class="card naacl" data-year="2022" data-conf="NAACL">
+  <strong>GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval</strong><br>
+  K. Wang, <u>N. Thakur</u>, N. Reimers, I. Gurevych<br>
+  <strong>NAACL 2022</strong><br>
+  <div class="publication-links">
+    <a href="https://aclanthology.org/2022.naacl-main.168/"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/UKPLab/gpl"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <!-- 2021 -->
-  <div class="card neurips" data-year="2021" data-conf="NeurIPS">
-    <strong>BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models</strong><br>
-    <u>N. Thakur</u>, N. Reimers, A. Rücklé, A. Srivastava, I. Gurevych<br>
-    <strong>NeurIPS 2021 (D&B)</strong> •
-    <a href="https://arxiv.org/abs/2104.08663"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://beir.ai"><img src="/assets/icons/globe.svg" class="icon" alt="Website">Website</a>
-    <a href="https://beir.ai"><img src="/assets/icons/code.svg" class="icon" alt="Code">Code</a>
+<!-- 2021 -->
+<div class="card neurips" data-year="2021" data-conf="NeurIPS">
+  <strong>BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models</strong><br>
+  <u>N. Thakur</u>, N. Reimers, A. Rücklé, A. Srivastava, I. Gurevych<br>
+  <strong>NeurIPS 2021 (D&B)</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2104.08663"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://beir.ai"><i class="fas fa-globe"></i> Website</a>
+    | <a href="https://beir.ai"><i class="fas fa-code"></i> Code</a>
   </div>
+</div>
 
-  <div class="card naacl" data-year="2021" data-conf="NAACL">
-    <strong>Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks</strong><br>
-    <u>N. Thakur</u>, N. Reimers, J. Daxenberger, I. Gurevych<br>
-    <strong>NAACL 2021</strong> •
-    <a href="https://aclanthology.org/2021.naacl-main.28/"><img src="/assets/icons/paper.svg" class="icon" alt="Paper">Paper</a>
-    <a href="https://sbert.net/examples/sentence_transformer/training/data_augmentation/README.html"><img src="/assets/icons/globe.svg" class="icon" alt="Website">Website</a>
+<div class="card naacl" data-year="2021" data-conf="NAACL">
+  <strong>Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks</strong><br>
+  <u>N. Thakur</u>, N. Reimers, J. Daxenberger, I. Gurevych<br>
+  <strong>NAACL 2021</strong><br>
+  <div class="publication-links">
+    <a href="https://aclanthology.org/2021.naacl-main.28/"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://sbert.net/examples/sentence_transformer/training/data_augmentation/README.html"><i class="fas fa-globe"></i> Website</a>
   </div>
+</div>
 
 </div>
 
@@ -306,6 +345,10 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
     margin-right: 0.25rem;
   }
 
+  .publication-links {
+    margin: 0 0.25em;
+  }
+
   /* Conference highlight styles */
   .card.sigir   { background-color: #e8f5e9; border-left-color: var(--color-sigir); }
   .card.sigir:hover   { background-color: rgba(40,167,69,0.08); }
@@ -326,31 +369,31 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  const grid    = document.querySelector('.publications-grid');
-  // 1) collect & sort cards by year (newest first)
-  const cards   = Array.from(grid.querySelectorAll('.card'));
-  cards.sort((a, b) => parseInt(b.dataset.year) - parseInt(a.dataset.year));
-  cards.forEach(card => grid.appendChild(card));
+  const cards       = Array.from(document.querySelectorAll('.publications-grid .card'));
+  const confButtons = document.querySelectorAll('.filter-controls button[data-conf]');
 
-  // 2) now wire up filters
-  const yearSel = document.getElementById('year-filter');
-  const confSel = document.getElementById('conf-filter');
-
-  function filterCards() {
-    const y = yearSel.value;
-    const c = confSel.value;
+  function filterByConf(conf) {
     cards.forEach(card => {
-      const matchYear = (y === 'all' || card.dataset.year === y);
-      const matchConf = (c === 'all' || card.dataset.conf === c);
-      card.style.display = (matchYear && matchConf) ? '' : 'none';
+      const cardConf = card.dataset.conf.toLowerCase();
+      card.style.display = (conf === 'all' || cardConf === conf)
+                         ? 'block'
+                         : 'none';
     });
   }
 
-  yearSel.addEventListener('change', filterCards);
-  confSel.addEventListener('change', filterCards);
+  confButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      // 1) Remove .active from all buttons, add to this one
+      confButtons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
 
-  // 3) initialize filtering
-  filterCards();
+      // 2) Filter cards
+      filterByConf(btn.dataset.conf.toLowerCase());
+    });
+  });
+
+  // init (optional: show all)
+  filterByConf('all');
 });
 </script>
 
