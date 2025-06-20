@@ -169,14 +169,6 @@
 .filter-controls button[data-conf="neurips"]:not(.active)  { border-color: var(--color-neurips);  color: var(--color-neurips);  }
 .filter-controls button[data-conf="preprint"]:not(.active) { border-color: var(--color-preprint); color: var(--color-preprint); }
 
-/* ----- Active / Selected State ----- */
-.filter-controls button.active {
-  background-color: currentColor;   /* fills with the button’s text color */
-  color: #fff !important;           /* ensures white text */
-  border-color: currentColor;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-}
-
 .filter-group {
   display: flex;
   align-items: center;
@@ -185,4 +177,75 @@
 
 .filter-divider {
   height: 1rem;  /* vertical space between the two rows */
+}
+
+/* ----- Active / Selected State Overrides ----- */
+
+/* Year buttons get a neutral dark highlight */
+.filter-controls button[data-year].active {
+  background-color: #444;      /* dark gray */
+  border-color:     #444;
+  color:            #fff !important;
+  opacity:          1 !important;
+  box-shadow:       0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* “All types” conference button */
+.filter-controls button[data-conf="all"].active {
+  background-color: #333;
+  border-color:     #333;
+  color:            #fff !important;
+  opacity:          1 !important;
+}
+
+/* Preprint button (light gray bg + dark text) */
+.filter-controls button[data-conf="preprint"].active {
+  background-color: var(--color-preprint);
+  border-color:     var(--color-preprint);
+  color:            #000 !important;
+  opacity:          1 !important;
+}
+
+/* Conference-specific active fills */
+.filter-controls button[data-conf="sigir"].active {
+  background-color: var(--color-sigir);
+  border-color:     var(--color-sigir);
+  color:            #fff !important;
+  opacity:          1 !important;
+}
+.filter-controls button[data-conf="naacl"].active {
+  background-color: var(--color-naacl);
+  border-color:     var(--color-naacl);
+  color:            #fff !important;
+  opacity:          1 !important;
+}
+.filter-controls button[data-conf="iclr"].active {
+  background-color: var(--color-iclr);
+  border-color:     var(--color-iclr);
+  color:            #fff !important;
+  opacity:          1 !important;
+}
+.filter-controls button[data-conf="emnlp"].active {
+  background-color: var(--color-emnlp);
+  border-color:     var(--color-emnlp);
+  color:            #fff !important;
+  opacity:          1 !important;
+}
+.filter-controls button[data-conf="acl"].active {
+  background-color: var(--color-acl);
+  border-color:     var(--color-acl);
+  color:            #fff !important;
+  opacity:          1 !important;
+}
+.filter-controls button[data-conf="tacl"].active {
+  background-color: var(--color-tacl);
+  border-color:     var(--color-tacl);
+  color:            #fff !important;
+  opacity:          1 !important;
+}
+.filter-controls button[data-conf="neurips"].active {
+  background-color: var(--color-neurips);
+  border-color:     var(--color-neurips);
+  color:            #fff !important;
+  opacity:          1 !important;
 }
