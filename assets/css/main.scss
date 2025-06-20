@@ -199,12 +199,10 @@
 }
 
 /* Preprint button (light gray bg + dark text) */
-.filter-controls button[data-conf="preprint"].active {
-  background-color: #444;      /* dark gray */
-  border-color:     #444;
-  color:            #fff !important;
-  opacity:          1 !important;
-  box-shadow:       0 2px 6px rgba(0,0,0,0.2);
+.filter-controls button[data-conf="preprint"]:not(.active) {
+  border-color: #666;   /* a mid-gray outline */
+  color:        #666;   /* matching text color */
+  opacity:      1;      /* full opacity */
 }
 
 /* Conference-specific active fills */
