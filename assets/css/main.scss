@@ -131,40 +131,48 @@
 .card.neurips { background-color: #fbe9e7; border-left-color: var(--color-neurips); }
 .card.neurips:hover { background-color: rgba(255,127,80,0.08); }
 
+/* ----- Filter Buttons Base ----- */
 .filter-controls button {
-  background: #fff;
-  border: 2px solid #ccc;
+  margin: 0 0.25em;
+  padding: 0.4em 0.8em;
+  border: 2px solid transparent;
   border-radius: 4px;
-  padding: 0.3em 0.6em;
+  background: #fff;
+  color: #555;
   cursor: pointer;
-  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
-  color: #333;
+  transition: background-color 0.2s, border-color 0.2s, color 0.2s, box-shadow 0.2s;
+}
+.filter-controls button:hover {
+  background: #f5f5f5;
 }
 
-/* conference button base colors */
-.filter-controls button[data-conf="sigir"]  { border-color: var(--color-sigir);  color: var(--color-sigir);  }
-.filter-controls button[data-conf="naacl"]  { border-color: var(--color-naacl);  color: var(--color-naacl);  }
-.filter-controls button[data-conf="iclr"]   { border-color: var(--color-iclr);   color: var(--color-iclr);   }
-.filter-controls button[data-conf="emnlp"]  { border-color: var(--color-emnlp);  color: var(--color-emnlp);  }
-.filter-controls button[data-conf="acl"]    { border-color: var(--color-acl);    color: var(--color-acl);    }
-.filter-controls button[data-conf="tacl"]   { border-color: var(--color-tacl);   color: var(--color-tacl);   }
-.filter-controls button[data-conf="neurips"]{ border-color: var(--color-neurips);color: var(--color-neurips);}
-.filter-controls button[data-conf="preprint"]{ border-color: var(--color-preprint); color: #666; } /* neutral */
+.filter-controls button:not(.active) {
+  background: #fff;                /* white background */
+  color: #666;                     /* medium-gray text */
+  border: 2px solid #ccc;         /* light gray outline */
+  opacity: 0.8;                    /* slightly faded */
+}
 
-/* active state: filled background + white text */
+/* On hover, bring them to full opacity */
+.filter-controls button:not(.active):hover {
+  background: #f7f7f7;             /* very light gray hover */
+  opacity: 1;
+}
+
+/* ----- Conference‐specific Outlines ----- */
+.filter-controls button[data-conf="sigir"]:not(.active)    { border-color: var(--color-sigir);    color: var(--color-sigir);    }
+.filter-controls button[data-conf="naacl"]:not(.active)    { border-color: var(--color-naacl);    color: var(--color-naacl);    }
+.filter-controls button[data-conf="iclr"]:not(.active)     { border-color: var(--color-iclr);     color: var(--color-iclr);     }
+.filter-controls button[data-conf="emnlp"]:not(.active)    { border-color: var(--color-emnlp);    color: var(--color-emnlp);    }
+.filter-controls button[data-conf="acl"]:not(.active)      { border-color: var(--color-acl);      color: var(--color-acl);      }
+.filter-controls button[data-conf="tacl"]:not(.active)     { border-color: var(--color-tacl);     color: var(--color-tacl);     }
+.filter-controls button[data-conf="neurips"]:not(.active)  { border-color: var(--color-neurips);  color: var(--color-neurips);  }
+.filter-controls button[data-conf="preprint"]:not(.active) { border-color: var(--color-preprint); color: var(--color-preprint); }
+
+/* ----- Active / Selected State ----- */
 .filter-controls button.active {
-  color: #fff;
+  background-color: currentColor;   /* fills with the button’s text color */
+  color: #fff !important;           /* ensures white text */
+  border-color: currentColor;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
-.filter-controls button[data-conf="sigir"].active   { background-color: var(--color-sigir);   }
-.filter-controls button[data-conf="naacl"].active   { background-color: var(--color-naacl);   }
-.filter-controls button[data-conf="iclr"].active    { background-color: var(--color-iclr);    }
-.filter-controls button[data-conf="emnlp"].active   { background-color: var(--color-emnlp);   }
-.filter-controls button[data-conf="acl"].active     { background-color: var(--color-acl);     }
-.filter-controls button[data-conf="tacl"].active    { background-color: var(--color-tacl);    }
-.filter-controls button[data-conf="neurips"].active { background-color: var(--color-neurips); }
-.filter-controls button[data-conf="preprint"].active{ background-color: #ddd;                 }
-
-/* hover for non-active */
-.filter-controls button:hover:not(.active) {
-  background-color: rgba(0,0,0,0.05);
-}  
