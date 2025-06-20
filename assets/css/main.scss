@@ -176,3 +176,13 @@
   border-color: currentColor;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
+
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.filter-divider {
+  height: 1rem;  /* vertical space between the two rows */
+}

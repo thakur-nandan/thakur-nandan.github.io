@@ -35,26 +35,35 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 ## :scroll: Selected Publications
 
 <div class="filter-controls">
+
   <!-- Year filters -->
-  <label>Year:</label>
-  <button type="button" data-year="all" class="active">All</button>
-  <button type="button" data-year="2025">2025</button>
-  <button type="button" data-year="2024">2024</button>
-  <button type="button" data-year="2023">2023</button>
-  <button type="button" data-year="2022">2022</button>
-  <button type="button" data-year="2021">2021</button>
+  <div class="filter-group year-filters">
+    <label>Year:</label>
+    <button type="button" data-year="all" class="active">All</button>
+    <button type="button" data-year="2025">2025</button>
+    <button type="button" data-year="2024">2024</button>
+    <button type="button" data-year="2023">2023</button>
+    <button type="button" data-year="2022">2022</button>
+    <button type="button" data-year="2021">2021</button>
+  </div>
+
+  <!-- Divider for spacing -->
+  <div class="filter-divider"></div>
 
   <!-- Conference filters -->
-  <label>Conference:</label>
-  <button type="button" data-conf="all" class="active">All</button>
-  <button type="button" data-conf="preprint">Preprint</button>
-  <button type="button" data-conf="SIGIR">SIGIR</button>
-  <button type="button" data-conf="NAACL">NAACL</button>
-  <button type="button" data-conf="ICLR">ICLR</button>
-  <button type="button" data-conf="EMNLP">EMNLP</button>
-  <button type="button" data-conf="ACL">ACL</button>
-  <button type="button" data-conf="TACL">TACL</button>
-  <button type="button" data-conf="NeurIPS">NeurIPS</button>
+  <div class="filter-group conf-filters">
+    <label>Conference:</label>
+    <button type="button" data-conf="all" class="active">All</button>
+    <button type="button" data-conf="preprint">Preprint</button>
+    <button type="button" data-conf="sigir">SIGIR</button>
+    <button type="button" data-conf="naacl">NAACL</button>
+    <button type="button" data-conf="iclr">ICLR</button>
+    <button type="button" data-conf="emnlp">EMNLP</button>
+    <button type="button" data-conf="acl">ACL</button>
+    <button type="button" data-conf="tacl">TACL</button>
+    <button type="button" data-conf="neurips">NeurIPS</button>
+  </div>
+
 </div>
 
 <div class="publications-grid">
