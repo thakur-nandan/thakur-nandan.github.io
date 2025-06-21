@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : *twitter
+  twitter          : "beirmug"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "beirmug"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
