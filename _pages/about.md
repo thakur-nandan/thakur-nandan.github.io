@@ -35,6 +35,7 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 
 ## Selected Talks & Recordings
 {% include spotify_episode.html id="5vj6fr5SLPDvpj4nWE9Qqr" %}
+{% include youtube_video.html id="usvu6Sk1ynk" %}
 
 ## :scroll: Selected Publications
 
