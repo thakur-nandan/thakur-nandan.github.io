@@ -33,6 +33,9 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 - **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems" is now accepted at NAACL 2025.
 - **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
 
+## Selected Talks & Recordings
+{% include spotify_episode.html id="5vj6fr5SLPDvpj4nWE9Qqr" %}
+
 ## :scroll: Selected Publications
 
 <div class="filter-controls">
