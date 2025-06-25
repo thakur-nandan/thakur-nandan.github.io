@@ -285,5 +285,9 @@
 
 .youtube-video-container {
   width: 100%;
-  max-width: 560px;
+  max-width: 350px;
+}
+
+.youtube-video-container iframe {
+  border-radius: 12px;
 }
