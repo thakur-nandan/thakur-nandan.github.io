@@ -287,16 +287,17 @@
   max-width: 350px;
   width: 100%;
   position: relative;
-  padding-top: 56.25%;   /* Maintain 16:9 aspect ratio */
+  padding-bottom: 28.57%; /* (100 ÷ 350) × 100 */
+  height: 0;
   margin: 1em 0;
+  overflow: hidden;
 }
 
 .youtube-video-container iframe {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 0; left: 0;
   width: 100%;
   height: 100%;
   border: none;
-  border-radius: 12px;    /* Optional styling */
+  border-radius: 12px;
 }
