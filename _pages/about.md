@@ -34,8 +34,15 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 - **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
 
 ## Selected Talks & Recordings
-{% include spotify_episode.html id="5vj6fr5SLPDvpj4nWE9Qqr" %}
-{% include youtube_video.html id="usvu6Sk1ynk" %}
+
+<div class="media-widgets">
+  <div class="widget">
+    {% include spotify_episode.html id="5vj6fr5SLPDvpj4nWE9Qqr" %}
+  </div>
+  <div class="widget">
+    {% include youtube_video.html id="usvu6Sk1ynk" %}
+  </div>
+</div>
 
 ## :scroll: Selected Publications
 

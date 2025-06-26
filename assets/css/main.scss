@@ -301,3 +301,16 @@
   border: none;
   border-radius: 12px;
 }
+
+.media-widgets {
+  display: flex;
+  flex-wrap: wrap;       /* allows wrapping on narrow screens */
+  gap: 1rem;             /* space between widgets */
+  align-items: flex-start;
+  margin: 1em 0;
+}
+
+.media-widgets .widget {
+  flex: 1 1 350px;       /* each takes up to 350px, then shrinks */
+  max-width: 350px;      /* don’t grow beyond Spotify’s width */
+}
