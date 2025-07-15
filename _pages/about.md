@@ -25,6 +25,8 @@ My research is focused on three aspects: (i) Constructing challenging & realisti
 To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains](https://arxiv.org/abs/2505.16967) and [languages](https://arxiv.org/abs/2410.13716).
 
 ## :fire: 2025 (Recent Updates)
+- **[Jun 2025]** :speaking_head: My invited guest lecture with over 400+ participants on Modern IR Evaluation in the RAG Era is available now! [[YouTube]](https://www.youtube.com/watch?v=Trps2swgeOg)
+- **[Jun 2025]** :speaking_head: I was invited at Weaviate Podcast to talk about RAG benchmarks, Check out the video now! [[YouTube]](https://www.youtube.com/watch?v=x9zZ03XtAuY)
 - **[Jun 2025]** :speaking_head: I have been invited to talk at Hamel's mini RAG course on "Modern Information Retrieval Evaluation In The RAG Era". Sign up here: [[https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era]](https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era).
 - **[May 2025]** :page_facing_up: Our new work on nuggetizing search arena RAG answers is available as a preprint now!
 - **[Apr 2025]** :page_facing_up: My exciting internship work at Databricks on FreshStack to create realistic RAG benchmarks is available on arXiv!
@@ -38,6 +40,9 @@ To answer these questions, my research develops *new benchmarks* such as [BEIR](
 <div class="media-widgets">
   <div class="widget">
     {% include spotify_episode.html id="5vj6fr5SLPDvpj4nWE9Qqr" %}
+  </div>
+  <div class="widget">
+    {% include youtube_video.html id="Trps2swgeOg" %}
   </div>
   <div class="widget">
     {% include youtube_video.html id="usvu6Sk1ynk" %}
