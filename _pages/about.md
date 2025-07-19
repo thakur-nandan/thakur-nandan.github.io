@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ fourth-year PhD student at [University of Waterloo](https://cs.uwaterloo.ca/) working on building efficient embedding models and realistic evaluation benchmarks. I'm lucky to be advised by [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is partially supported by the David R. Cheriton Graduate Scholarship [[link](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)]. 
-
-I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. Previously, I worked at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Professor Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/), and KNOLSKAPE. I received my undergraduate degree from BITS Pilani KK Birla Goa Campus in 2018.
-
-Visit [Research](/publications/) to learn more about my work. You can reach me at nandan.thakur@uwaterloo.ca. I'd love to hear from you!
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ fourth-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. 
 
 Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
 
@@ -20,9 +16,18 @@ Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_la
 
 ## :mag: Research
 
-My research is focused on three aspects: (i) Constructing challenging & realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains, and (iii) Standardizing RAG evaluation, building a better foundation within the IR & NLP community. 
+I focus on three aspects in my research focused in the interplay of IR and NLP: 
+- Constructing challenging & realistic benchmarks, with realistic human-curated and high-quality evaluation samples
+- Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains
+- Standardizing RAG evaluation, building a better foundation within the IR & NLP community 
 
-To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains](https://arxiv.org/abs/2505.16967) and [languages](https://arxiv.org/abs/2410.13716).
+To answer these, my research develops <span style="color:red; text-decoration:underline;">new benchmarks</span> such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs <span style="color:red; text-decoration:underline;">efficient models</span> with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced <span style="color:red; text-decoration:underline;">hallucinations</span> and improved <span style="color:red; text-decoration:underline;">accuracy</span> seen across [domains](https://arxiv.org/abs/2505.16967) and [languages](https://arxiv.org/abs/2410.13716).
+
+
+## Past
+
+Prior to my PhD, I was a research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
+
 
 ## :fire: 2025 (Recent Updates)
 - **[Jun 2025]** :speaking_head: My invited guest lecture with over 400+ participants on Modern IR Evaluation in the RAG Era is available now! [[YouTube]](https://www.youtube.com/watch?v=Trps2swgeOg)
