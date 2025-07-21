@@ -10,24 +10,22 @@ redirect_from:
 
 :wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ fourth-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. 
 
-Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
-
 <!-- <span style="color:red">PS: I will be in the academic job market in 2026!</span> -->
 
 ## :mag: Research
 
-I focus on three aspects in my research focused in the interplay of IR and NLP: 
-- Constructing challenging & realistic benchmarks, with realistic human-curated and high-quality evaluation samples
-- Building efficient retrieval systems, whose quality and cost can be optimized and generalize to challenging domains
-- Standardizing RAG evaluation, building a better foundation within the IR & NLP community 
+I focus on three core aspects focused around evaluation, data in information retrieval: 
+- **Constructing challenging and realistic benchmarks** with high-quality, human-curated evaluation samples
+- **Designing efficient retrieval systems** that balance quality and computational cost, generalize well to challenging domains
+- **Standardizing RAG evaluation** to build a more principled foundation within the IR & NLP community
 
-To answer these, my research develops <span style="color:red; text-decoration:underline;">new benchmarks</span> such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs <span style="color:red; text-decoration:underline;">efficient models</span> with [GPL](https://arxiv.org/abs/2205.11498) & [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced <span style="color:red; text-decoration:underline;">hallucinations</span> and improved <span style="color:red; text-decoration:underline;">accuracy</span> seen across [domains](https://arxiv.org/abs/2505.16967) and [languages](https://arxiv.org/abs/2410.13716).
+In my research, I've developed widely used retrieval benchmarks such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai), and trained efficient retrieval models like [GPL](https://arxiv.org/abs/2205.11498) or [SWIM-IR](https://arxiv.org/abs/2311.05800). This advances accelerate RAG systems--such as [TREC-RAG](https://trec-rag.github.io)--to produce better language model answers by (i) leveraging cleaner training data (e.g., [RLHN](https://arxiv.org/abs/2505.16967)) (ii) reducing hallucinations across domains and languages (e.g., [NoMIRACL](https://arxiv.org/abs/2312.11361), [MIRAGE-Bench](https://arxiv.org/abs/2410.13716)), and (iii) enabling evaluation on realistic benchmarks and metrics (e.g., [FreshStack](https://arxiv.org/abs/2504.13128)).
 
+## :arrow_backward: Past
 
-## Past
+Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
-Prior to my PhD, I was a research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
-
+Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
 
 ## :fire: 2025 (Recent Updates)
 - **[Jun 2025]** :speaking_head: My invited guest lecture with over 400+ participants on Modern IR Evaluation in the RAG Era is available now! [[YouTube]](https://www.youtube.com/watch?v=Trps2swgeOg)
