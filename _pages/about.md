@@ -89,6 +89,18 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 
 <!-- 2025 -->
 <div class="card preprint" data-year="2025" data-conf="preprint">
+  <strong>BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent</strong><br>
+  Z. Chen, X. Ma, ..., <u>N. Thakur</u>, ... J. Lin<br>
+  <strong>Preprint 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2508.06600"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://texttron.github.io/BrowseComp-Plus/"><i class="fas fa-globe"></i> Website</a>
+    | <a href="https://huggingface.co/datasets/Tevatron/browsecomp-plus"><i class="fas fa-database"></i> Dataset</a>
+    | <a href="https://github.com/texttron/BrowseComp-Plus"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
+
+<div class="card preprint" data-year="2025" data-conf="preprint">
   <strong>Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval</strong><br>
   <u>N. Thakur*</u>, C. Zhang*, X. Ma, J. Lin<br>
   <strong>Preprint 2025</strong><br>
@@ -319,6 +331,16 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   </div>
 </div>
 </div>
+
+{% raw %}
+<div class="visitor-map">
+  <div class="visitor-map-inner">
+    <script type="text/javascript" id="mapmyvisitors" 
+      src="//mapmyvisitors.com/map.js?d=MCXoGMuEnjF-I0eY4-Q2h-g6ZQ45wPyldpicy-A_CNs&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
+{% endraw %}
 
 ## Old Updates
 

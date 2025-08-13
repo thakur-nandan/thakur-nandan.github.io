@@ -314,3 +314,14 @@
   flex: 1 1 350px;       /* each takes up to 350px, then shrinks */
   max-width: 350px;      /* don’t grow beyond Spotify’s width */
 }
+
+.visitor-map {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.visitor-map-inner {
+  max-width: 100%;
+  display: inline-block;
+  overflow-x: auto;
+}
