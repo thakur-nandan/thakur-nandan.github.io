@@ -334,11 +334,9 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 
 {% raw %}
 <div class="visitor-map">
-  <div class="visitor-map-inner">
-    <script type="text/javascript" id="mapmyvisitors" 
-      src="//mapmyvisitors.com/map.js?d=MCXoGMuEnjF-I0eY4-Q2h-g6ZQ45wPyldpicy-A_CNs&cl=ffffff&w=a">
-    </script>
-  </div>
+  <script type="text/javascript" id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=MCXoGMuEnjF-I0eY4-Q2h-g6ZQ45wPyldpicy-A_CNs&cl=ffffff&w=500">
+  </script>
 </div>
 {% endraw %}
 
