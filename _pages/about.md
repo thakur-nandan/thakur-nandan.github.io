@@ -26,6 +26,9 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: 2025 (Recent Updates)
+- **[Aug 2025]** :bulb: Acting as a PC Member for the [BREV-RAG](http://sakailab.com/brev-rag/) (Beyond Relevance-based EValuation of RAG systems) workshop being held at SIGIR-AP 2025!
+- **[Aug 2025]** :book: Checkout the [Beyond-RAG mini-book](https://drive.google.com/drive/folders/1Wv7KOOUMQkEH5ab0X5rQOBnFUvK1TXH_?usp=sharing) by Hamel which condensed five important research talks in the RAG series. The second chapter covers my RAG evaluation guest talk!
+- **[Aug 2025]** :speaking_head: I gave a guest lecture on Modern IR Evaluation in the RAG Era at Mila, Montreal!
 - **[Jun 2025]** :speaking_head: My invited guest lecture with over 400+ participants on Modern IR Evaluation in the RAG Era is available now! [[YouTube]](https://www.youtube.com/watch?v=Trps2swgeOg)
 - **[Jun 2025]** :speaking_head: I was invited at Weaviate Podcast to talk about RAG benchmarks, Check out the video now! [[YouTube]](https://www.youtube.com/watch?v=x9zZ03XtAuY)
 - **[Jun 2025]** :speaking_head: I have been invited to talk at Hamel's mini RAG course on "Modern Information Retrieval Evaluation In The RAG Era". Sign up here: [[https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era]](https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era).
@@ -100,10 +103,10 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   </div>
 </div>
 
-<div class="card preprint" data-year="2025" data-conf="preprint">
+<div class="card emnlp" data-year="2025" data-conf="emnlp">
   <strong>Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval</strong><br>
   <u>N. Thakur*</u>, C. Zhang*, X. Ma, J. Lin<br>
-  <strong>Preprint 2025</strong><br>
+  <strong>EMNLP 2025 (Findings)</strong><br>
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2505.16967"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://huggingface.co/rlhn"><i class="fas fa-database"></i> Dataset</a>
