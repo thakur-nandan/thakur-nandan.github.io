@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ fourth-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. 
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ final-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. 
 
 📄 [View my CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
 
@@ -26,6 +26,7 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: 2025 (Recent Updates)
+- **[Sep 2025]** :star: FreshStack has been accepted at the NeurIPS 2025 Datasets & Benchmark Track.
 - **[Aug 2025]** :bulb: Acting as a PC Member for the [BREV-RAG](http://sakailab.com/brev-rag/) (Beyond Relevance-based EValuation of RAG systems) workshop being held at SIGIR-AP 2025!
 - **[Aug 2025]** :book: Checkout the [Beyond-RAG mini-book](https://drive.google.com/drive/folders/1Wv7KOOUMQkEH5ab0X5rQOBnFUvK1TXH_?usp=sharing) by Hamel which condensed five important research talks in the RAG series. The second chapter covers my RAG evaluation guest talk!
 - **[Aug 2025]** :speaking_head: I gave a guest lecture on Modern IR Evaluation in the RAG Era at Mila, Montreal!
@@ -123,10 +124,10 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   </div>
 </div>
 
-<div class="card preprint" data-year="2025" data-conf="preprint">
+<div class="card neurips" data-year="2025" data-conf="NeurIPS">
   <strong>FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents</strong><br>
   <u>N. Thakur</u>, J. Lin, S. Havens, M. Carbin, O. Khattab, A. Drozdov<br>
-  <strong>Preprint 2025</strong><br>
+  <strong>NeurIPS 2025 (D&B)</strong><br>
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2504.13128"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://fresh-stack.github.io"><i class="fas fa-globe"></i> Website</a>
