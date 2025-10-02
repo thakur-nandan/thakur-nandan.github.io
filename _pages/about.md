@@ -26,6 +26,7 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: 2025 (Recent Updates)
+- **[Sep 2025]** :speaking_head: Invited talk at Microsoft Research India, Bangalore on RLHN!
 - **[Sep 2025]** :star: FreshStack has been accepted at the NeurIPS 2025 Datasets & Benchmark Track.
 - **[Aug 2025]** :bulb: Acting as a PC Member for the [BREV-RAG](http://sakailab.com/brev-rag/) (Beyond Relevance-based EValuation of RAG systems) workshop being held at SIGIR-AP 2025!
 - **[Aug 2025]** :book: Checkout the [Beyond-RAG mini-book](https://drive.google.com/drive/folders/1Wv7KOOUMQkEH5ab0X5rQOBnFUvK1TXH_?usp=sharing) by Hamel which condensed five important research talks in the RAG series. The second chapter covers my RAG evaluation guest talk!
