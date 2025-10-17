@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Mentorship
-
 I've been blessed with the oppertunity to mentor few passionate undergraduate, masters and informally helped out early PhD students with projects during my time at University of Waterloo. Here's a brief list of students:
 
 ### 1-on-1 mentorship
