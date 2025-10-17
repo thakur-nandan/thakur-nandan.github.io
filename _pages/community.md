@@ -15,16 +15,17 @@ I've been blessed with the oppertunity to mentor few passionate undergraduate, m
 
 #### Winter 2025
 
-<p style="font-size: 15px;">Worked with Crystina Zhang (co-mentor) to mentor <i>Forrest Gao</i> (ECE Masters, UWaterloo) on reproducing scores on MIRACL for multilingual retrieval models such as KALM, DRAMA and extending SWIM-X, a synthetic LLM-generated multilingual retrieval training dataset. I designed the scope of the project, provided relevant background, fixed day-to-day bugs faced in Compute Canada, provided starter code base, and conducted code reviews.</p>
+- Worked with Crystina Zhang (co-mentor) to mentor <i>Forrest Gao</i> (ECE Masters, UWaterloo) on reproducing scores on MIRACL for multilingual retrieval models such as KALM, DRAMA and extending SWIM-X, a synthetic LLM-generated multilingual retrieval training dataset. I designed the scope of the project, provided relevant background, fixed day-to-day bugs faced in Compute Canada, provided starter code base, and conducted code reviews
 
-<p style="font-size: 15px;">Mentored <i>Jonathan Zhao</i> (CS Undergraduate, UWaterloo) on constructing complex queries for training retrieval models. The idea was to use an LLM recursively to continue to edit and rephrase the question in multiple stages. Similar to Forrest, I designed the scope of the project, provided relevant background, fixed day-to-day bugs faced in Compute Canada, provided starter code base, and conducted code reviews.</p>
+- Mentored <i>Jonathan Zhao</i> (CS Undergraduate, UWaterloo) on constructing complex queries for training retrieval models. The idea was to use an LLM recursively to continue to edit and rephrase the question in multiple stages. Similar to Forrest, I designed the scope of the project, provided relevant background, fixed day-to-day bugs faced in Compute Canada, provided starter code base, and conducted code reviews.
 
 
-## Community Contributions
+## A brief history about my journey:
 
-<p style="font-size: 15px;">A brief history about my story, I pivoted into an academic lifesyle to pursure my curiousity to conduct research in NLP and IR. 
-I shifted domains, starting from electronics -> data analytics -> data science -> NLP & IR. I truly believe in open-source to help educate others better (including myself) on how to critically access information better from the vast pool of information available in the Internet. Credit must be given to all my academic mentors and peers' guidance, which have been influential at an early stage in my career to help overcome this challenge.</p>
+I transitioned into an academic lifestyle to pursue my curiosity in conducting research in Natural Language Processing (NLP) and Information Retrieval (IR). My career path has evolved across several domains — from electronics → data analytics → data science → NLP & IR.
 
-<p style="font-size: 15px;">I would like to continue the tradition and give back to the community, I am willing to mentor a few early stage undergraduate / master students in University of Waterloo interested towards my direction in embedding models and information retrieval. Personally, I encourage students with diverse backgrounds or in a similar nutshell as mine to reach out.</p>
+I strongly believe in open-source research as a means to enhance education and help others (and myself) develop the ability to critically ask the most impactful questions in research. I owe immense gratitude to my academic mentors and peers (everyone at UKP Lab & UWaterloo), whose early guidance was instrumental in helping me navigate this interdisciplinary shift.
 
-<p style="font-size: 15px;">If you are interested, Send out an introductory email to me about yourself, introduce me with your academic background, preferably attach your CV and send me on my personal email: nandan.thakur@uwaterloo.ca.</p>
+Continuing this tradition of mentorship and community engagement, I’m eager to give back by mentoring a few early-stage undergraduate or master’s students at the University of Waterloo who are interested in my research directions consisting of data, evaluations in information retrieval & RAG. Personally, I encourage students with diverse backgrounds or in a similar nutshell as mine to reach out.
+
+> If you’re interested, please send me an introductory email about yourself, including your academic background, and attach your CV. You can reach me at nandan.thakur@uwaterloo.ca
