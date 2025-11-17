@@ -8,9 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(third)~~ final-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. 
+<div style="background-color: #ffdddd; 
+            border-left: 6px solid #ff4c4c; 
+            border-radius: 8px; 
+            padding: 16px 20px; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            color: #660000;">
+  <strong>📢 I am on the job market!</strong> Seeking academic/industry opportunities starting Spring 2026, preferably in India. Contact me at 
+  <a href="mailto:nandan.thakur@uwaterloo.ca" style="color: #b30000; text-decoration: underline;">nandan.thakur@uwaterloo.ca</a>.
+</div>
 
-📄 [View my CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(fourth)~~ final-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
+
+📄 [View my CV (Fall 2025)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_November_2025.pdf)
 
 ## :mag: Research
 
@@ -26,7 +36,9 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: 2025 (Recent Updates)
-- **[Sep 2025]** :speaking_head: Invited talk at Microsoft Research India, Bangalore on RLHN!
+- **[Oct 2025]** :speaking_head: Invited talk at IISC Bangalore on [*Beyond Models: Rethinking Benchmarks, Data, and Evaluation for Retrieval-Augmented Generation*](https://cds.iisc.ac.in/events/seminar-cds-102-october-09th-1200-beyond-models-rethinking-benchmarks-data-and-evaluation-for-retrieval-augmented-generation/).
+- **[Oct 2025]** :fire: FreshStack is now a part of the [RTEB benchmark](https://huggingface.co/blog/rteb).
+- **[Sep 2025]** :speaking_head: Invited talk at Microsoft Research India, Bangalore on our Relabeling Hard Negatives (RLHN) work!
 - **[Sep 2025]** :star: FreshStack has been accepted at the NeurIPS 2025 Datasets & Benchmark Track.
 - **[Aug 2025]** :bulb: Acting as a PC Member for the [BREV-RAG](http://sakailab.com/brev-rag/) (Beyond Relevance-based EValuation of RAG systems) workshop being held at SIGIR-AP 2025!
 - **[Aug 2025]** :book: Checkout the [Beyond-RAG mini-book](https://drive.google.com/drive/folders/1Wv7KOOUMQkEH5ab0X5rQOBnFUvK1TXH_?usp=sharing) by Hamel which condensed five important research talks in the RAG series. The second chapter covers my RAG evaluation guest talk!
@@ -37,8 +49,8 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 - **[May 2025]** :page_facing_up: Our new work on nuggetizing search arena RAG answers is available as a preprint now!
 - **[Apr 2025]** :page_facing_up: My exciting internship work at Databricks on FreshStack to create realistic RAG benchmarks is available on arXiv!
 - **[Apr 2025]** :partying_face: Our TREC 2024 RAG support and Nuggets preprints have been accepted at SIGIR 2025!
-- **[Jan 2025]** :speaking_head: Gave a research talk on "Accelerating Multilingual RAG Systems" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
-- **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems" is now accepted at NAACL 2025.
+- **[Jan 2025]** :speaking_head: Gave a research talk on "*Accelerating Multilingual RAG Systems*" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
+- **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "*MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems*" is now accepted at NAACL 2025.
 - **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
 
 ## Selected Talks & Recordings
@@ -93,10 +105,10 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 <div class="publications-grid">
 
 <!-- 2025 -->
-<div class="card preprint" data-year="2025" data-conf="preprint">
+<div class="card neurips" data-year="2025" data-conf="NeurIPS">
   <strong>BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent</strong><br>
   Z. Chen, X. Ma, ..., <u>N. Thakur</u>, ... J. Lin<br>
-  <strong>Preprint 2025</strong><br>
+  <strong>MTI-LLM @ NeurIPS 2025</strong><br>
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2508.06600"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://texttron.github.io/BrowseComp-Plus/"><i class="fas fa-globe"></i> Website</a>
@@ -106,11 +118,11 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 </div>
 
 <div class="card emnlp" data-year="2025" data-conf="emnlp">
-  <strong>Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval</strong><br>
+  <strong>Hard Negatives, Hard Lessons: Revisiting Training Data Quality for Robust Information Retrieval with LLMs</strong><br>
   <u>N. Thakur*</u>, C. Zhang*, X. Ma, J. Lin<br>
   <strong>EMNLP 2025 (Findings)</strong><br>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2505.16967"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.481/"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://huggingface.co/rlhn"><i class="fas fa-database"></i> Dataset</a>
     | <a href="https://github.com/castorini/rlhn"><i class="fas fa-code"></i> Code</a>
   </div>
@@ -122,6 +134,8 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <strong>Preprint 2025</strong><br>
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2504.20006"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://huggingface.co/datasets/castorini/search-arena-v1-nuggets-with-urls-5k"><i class="fas fa-database"></i> Dataset</a>
+    <a href="https://github.com/castorini/lmsys_nuggetize"><i class="fas fa-code"></i> Code</a>
   </div>
 </div>
 
@@ -138,11 +152,11 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 </div>
 
 <div class="card sigir" data-year="2025" data-conf="SIGIR">
-  <strong>Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges</strong><br>
+  <strong>Assessing Support for the TREC 2024 RAG Track: A Large-Scale Comparative Study of LLM and Human Evaluations</strong><br>
   <u>N. Thakur</u>, R. Pradeep, S. Upadhyay, D. Campos, N. Craswell, J. Lin<br>
   <strong>SIGIR 2025 (short)</strong><br>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2504.15205"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://dl.acm.org/doi/10.1145/3726302.3730165"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
 </div>
 
@@ -151,8 +165,17 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   R. Pradeep, <u>N. Thakur</u>, S. Upadhyay, D. Campos, N. Craswell, J. Lin<br>
   <strong>SIGIR 2025</strong><br>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2504.15068"><i class="fas fa-file-alt"></i> Paper</a>
-    <a href="https://github.com/castorini/nuggetizer"><i class="fas fa-code"></i> Code</a>
+    <a href="https://dl.acm.org/doi/10.1145/3726302.3730090"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/castorini/nuggetizer"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
+
+<div class="card sigir" data-year="2025" data-conf="SIGIR">
+  <strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
+  S. Upadhyay, R. Pradeep, <u>N. Thakur</u>, D. Campos, N. Craswell, I. Soboroff, H. T. Dang, J. Lin<br>
+  <strong>ICTIR 2025</strong><br>
+  <div class="publication-links">
+    <a href="https://dl.acm.org/doi/10.1145/3731120.3744605"><i class="fas fa-file-alt"></i> Paper</a>
   </div>
 </div>
 
@@ -162,6 +185,7 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <strong>ECIR 2025 (Findings)</strong><br>
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2411.09607"><i class="fas fa-file-alt"></i> Paper</a>
+    | <a href="https://github.com/castorini/ragnarok"><i class="fas fa-code"></i> Code</a>
   </div>
 </div>
 
@@ -170,7 +194,7 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <u>N. Thakur</u>, S. Kazi, G. Luo, J. Lin, A. Ahmad<br>
   <strong>NAACL 2025</strong><br>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2410.13716"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://aclanthology.org/2025.naacl-long.14/"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://github.com/vectara/mirage-bench"><i class="fas fa-code"></i> Code</a>
     | <a href="https://mirage-bench.github.io"><i class="fas fa-globe"></i> Website</a>
   </div>
@@ -187,14 +211,6 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 </div>
 
 <!-- 2024 -->
-<div class="card sigir" data-year="2024" data-conf="SIGIR">
-  <strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
-  S. Upadhyay, R. Pradeep, <u>N. Thakur</u>, D. Campos, N. Craswell, I. Soboroff, H. T. Dang, J. Lin<br>
-  <strong>ICTIR 2024</strong><br>
-  <div class="publication-links">
-    <a href="https://arxiv.org/abs/2411.08275"><i class="fas fa-file-alt"></i> Paper</a>
-  </div>
-</div>
 
 <div class="card preprint" data-year="2024" data-conf="preprint">
   <strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
@@ -271,6 +287,8 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <div class="publication-links">
     <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00595/117438"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://project-miracl.github.io"><i class="fas fa-globe"></i> Website</a>
+    | <a href="https://github.com/project-miracl/miracl"><i class="fas fa-code"></i> Code</a>
+    | <a href="https://huggingface.co/datasets/miracl/miracl"><i class="fas fa-database"></i> Dataset</a>
   </div>
 </div>
 

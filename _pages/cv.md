@@ -9,7 +9,7 @@ redirect_from:
 
 Here is my Academic CV in the PDF format (Last updated in September 2024):
 
-<embed src="https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_November_2025.pdf" type="application/pdf" width="600px" height="500px" />
 <p></p>
 
 # Academic CV (Text Format)
