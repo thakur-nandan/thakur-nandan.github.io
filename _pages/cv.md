@@ -16,7 +16,7 @@ Here is my Academic CV in the PDF format (Last updated in September 2024):
 
 Education
 ======
-* Ph.D. in Computer Science, University of Waterloo, 2026 (expected)
+* Ph.D. in Computer Science, University of Waterloo, April 2026 (expected)
 * B.E. (Hons.) in Electronics & Instrumentation, BITS Pilani, 2018
 
 Research Experience

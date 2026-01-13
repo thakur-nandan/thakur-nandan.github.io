@@ -18,7 +18,7 @@ redirect_from:
   <a href="mailto:nandan.thakur@uwaterloo.ca" style="color: #b30000; text-decoration: underline;">nandan.thakur@uwaterloo.ca</a>.
 </div>
 
-:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(fourth)~~ final-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(fourth)~~ final-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
 
 📄 [View my CV (Fall 2025)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_November_2025.pdf)
 
@@ -36,6 +36,7 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: 2025 (Recent Updates)
+- **[Dec 2025]** :star: FreshStack received the honourable mention for the "Best 2025 Search Project" by [BCS, The Chartered Institute for IT Search Solutions](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/awards/bcs-search-industry-awards/).
 - **[Oct 2025]** :speaking_head: Invited talk at IISC Bangalore on [*Beyond Models: Rethinking Benchmarks, Data, and Evaluation for Retrieval-Augmented Generation*](https://cds.iisc.ac.in/events/seminar-cds-102-october-09th-1200-beyond-models-rethinking-benchmarks-data-and-evaluation-for-retrieval-augmented-generation/).
 - **[Oct 2025]** :fire: FreshStack is now a part of the [RTEB benchmark](https://huggingface.co/blog/rteb).
 - **[Sep 2025]** :speaking_head: Invited talk at Microsoft Research India, Bangalore on our Relabeling Hard Negatives (RLHN) work!
@@ -144,7 +145,7 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <u>N. Thakur</u>, J. Lin, S. Havens, M. Carbin, O. Khattab, A. Drozdov<br>
   <strong>NeurIPS 2025 (D&B)</strong><br>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2504.13128"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://openreview.net/forum?id=54TTgXlS2U"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://fresh-stack.github.io"><i class="fas fa-globe"></i> Website</a>
     | <a href="https://huggingface.co/freshstack"><i class="fas fa-database"></i> Dataset</a>
     | <a href="https://github.com/fresh-stack/freshstack"><i class="fas fa-code"></i> Code</a>
@@ -184,7 +185,7 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   R. Pradeep*, <u>N. Thakur*</u>, S. Sharifymoghaddam, E. Zhang, R. Nguyen, D. Campos, N. Craswell, J. Lin<br>
   <strong>ECIR 2025 (Findings)</strong><br>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2411.09607"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-88708-6_9"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://github.com/castorini/ragnarok"><i class="fas fa-code"></i> Code</a>
   </div>
 </div>
