@@ -35,7 +35,8 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
-## :fire: 2025 (Recent Updates)
+## :fire: Recent Updates
+- **[Jan 2025]** :partying_face: We hosted the second iteration of the RAG Track at TREC RAG 2025, we appreciate all the teams that participated in the track!
 - **[Dec 2025]** :star: FreshStack received the honourable mention for the "Best 2025 Search Project" by [BCS, The Chartered Institute for IT Search Solutions](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/awards/bcs-search-industry-awards/).
 - **[Oct 2025]** :speaking_head: Invited talk at IISC Bangalore on [*Beyond Models: Rethinking Benchmarks, Data, and Evaluation for Retrieval-Augmented Generation*](https://cds.iisc.ac.in/events/seminar-cds-102-october-09th-1200-beyond-models-rethinking-benchmarks-data-and-evaluation-for-retrieval-augmented-generation/).
 - **[Oct 2025]** :fire: FreshStack is now a part of the [RTEB benchmark](https://huggingface.co/blog/rteb).
