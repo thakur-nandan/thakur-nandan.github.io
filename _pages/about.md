@@ -36,7 +36,8 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: Recent Updates
-- **[Jan 2025]** :partying_face: We hosted the second iteration of the RAG Track at TREC RAG 2025, we appreciate all the teams that participated in the track!
+- **[Mar 2026]** :grin: FreshStack recently got included in [KARLBench](https://arxiv.org/abs/2603.05218v1) by Databricks and a proud moment as an advisor mentoring two amazing URA's analyzing temporal drift in FreshStack LangChain: [arxiv.org/abs/2603.04532](https://arxiv.org/abs/2603.04532).
+- **[Jan 2026]** :partying_face: We hosted the second iteration of the RAG Track at TREC RAG 2025, we appreciate all the teams that participated in the track!
 - **[Dec 2025]** :star: FreshStack received the honourable mention for the "Best 2025 Search Project" by [BCS, The Chartered Institute for IT Search Solutions](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/awards/bcs-search-industry-awards/).
 - **[Oct 2025]** :speaking_head: Invited talk at IISC Bangalore on [*Beyond Models: Rethinking Benchmarks, Data, and Evaluation for Retrieval-Augmented Generation*](https://cds.iisc.ac.in/events/seminar-cds-102-october-09th-1200-beyond-models-rethinking-benchmarks-data-and-evaluation-for-retrieval-augmented-generation/).
 - **[Oct 2025]** :fire: FreshStack is now a part of the [RTEB benchmark](https://huggingface.co/blog/rteb).
@@ -77,6 +78,7 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <div class="filter-group year-filters">
     <label>Year:</label>
     <button type="button" data-year="all" class="active">All</button>
+    <button type="button" data-year="2025">2026</button>
     <button type="button" data-year="2025">2025</button>
     <button type="button" data-year="2024">2024</button>
     <button type="button" data-year="2023">2023</button>
@@ -105,6 +107,17 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 </div>
 
 <div class="publications-grid">
+
+<!-- 2026 -->
+<div class="card preprint" data-year="2026" data-conf="preprint">
+  <strong>Still Fresh? Evaluating Temporal Drift in Retrieval Benchmarks</strong><br>
+  N. Kuissi, S. Subrahmanyan, <u>N. Thakur</u>, J. Lin<br>
+  <strong>Preprint 2026</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2603.04532"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://github.com/fresh-stack/driftbench"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
 
 <!-- 2025 -->
 <div class="card neurips" data-year="2025" data-conf="NeurIPS">
