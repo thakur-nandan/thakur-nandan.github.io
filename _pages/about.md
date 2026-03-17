@@ -36,25 +36,9 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: Recent Updates
+- **[Mar 2026]** :fire: Our TREC 2025 RAG track overview paper is now available: [arxiv.org/abs/2603.04532](https://arxiv.org/abs/2603.09891)!
 - **[Mar 2026]** :grin: FreshStack recently got included in [KARLBench](https://arxiv.org/abs/2603.05218v1) by Databricks and a proud moment as an advisor mentoring two amazing URA's analyzing temporal drift in FreshStack LangChain: [arxiv.org/abs/2603.04532](https://arxiv.org/abs/2603.04532).
 - **[Jan 2026]** :partying_face: We hosted the second iteration of the RAG Track at TREC RAG 2025, we appreciate all the teams that participated in the track!
-- **[Dec 2025]** :star: FreshStack received the honourable mention for the "Best 2025 Search Project" by [BCS, The Chartered Institute for IT Search Solutions](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/awards/bcs-search-industry-awards/).
-- **[Oct 2025]** :speaking_head: Invited talk at IISC Bangalore on [*Beyond Models: Rethinking Benchmarks, Data, and Evaluation for Retrieval-Augmented Generation*](https://cds.iisc.ac.in/events/seminar-cds-102-october-09th-1200-beyond-models-rethinking-benchmarks-data-and-evaluation-for-retrieval-augmented-generation/).
-- **[Oct 2025]** :fire: FreshStack is now a part of the [RTEB benchmark](https://huggingface.co/blog/rteb).
-- **[Sep 2025]** :speaking_head: Invited talk at Microsoft Research India, Bangalore on our Relabeling Hard Negatives (RLHN) work!
-- **[Sep 2025]** :star: FreshStack has been accepted at the NeurIPS 2025 Datasets & Benchmark Track.
-- **[Aug 2025]** :bulb: Acting as a PC Member for the [BREV-RAG](http://sakailab.com/brev-rag/) (Beyond Relevance-based EValuation of RAG systems) workshop being held at SIGIR-AP 2025!
-- **[Aug 2025]** :book: Checkout the [Beyond-RAG mini-book](https://drive.google.com/drive/folders/1Wv7KOOUMQkEH5ab0X5rQOBnFUvK1TXH_?usp=sharing) by Hamel which condensed five important research talks in the RAG series. The second chapter covers my RAG evaluation guest talk!
-- **[Aug 2025]** :speaking_head: I gave a guest lecture on Modern IR Evaluation in the RAG Era at Mila, Montreal!
-- **[Jun 2025]** :speaking_head: My invited guest lecture with over 400+ participants on Modern IR Evaluation in the RAG Era is available now! [[YouTube]](https://www.youtube.com/watch?v=Trps2swgeOg)
-- **[Jun 2025]** :speaking_head: I was invited at Weaviate Podcast to talk about RAG benchmarks, Check out the video now! [[YouTube]](https://www.youtube.com/watch?v=x9zZ03XtAuY)
-- **[Jun 2025]** :speaking_head: I have been invited to talk at Hamel's mini RAG course on "Modern Information Retrieval Evaluation In The RAG Era". Sign up here: [[https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era]](https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era).
-- **[May 2025]** :page_facing_up: Our new work on nuggetizing search arena RAG answers is available as a preprint now!
-- **[Apr 2025]** :page_facing_up: My exciting internship work at Databricks on FreshStack to create realistic RAG benchmarks is available on arXiv!
-- **[Apr 2025]** :partying_face: Our TREC 2024 RAG support and Nuggets preprints have been accepted at SIGIR 2025!
-- **[Jan 2025]** :speaking_head: Gave a research talk on "*Accelerating Multilingual RAG Systems*" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
-- **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "*MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems*" is now accepted at NAACL 2025.
-- **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
 
 ## Selected Talks & Recordings
 
@@ -78,7 +62,7 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <div class="filter-group year-filters">
     <label>Year:</label>
     <button type="button" data-year="all" class="active">All</button>
-    <button type="button" data-year="2025">2026</button>
+    <button type="button" data-year="2026">2026</button>
     <button type="button" data-year="2025">2025</button>
     <button type="button" data-year="2024">2024</button>
     <button type="button" data-year="2023">2023</button>
@@ -107,6 +91,17 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 </div>
 
 <div class="publications-grid">
+
+<!-- 2026 -->
+<div class="card preprint" data-year="2026" data-conf="preprint">
+  <strong>Overview of the TREC 2025 Retrieval Augmented Generation (RAG) Track</strong><br>
+  S. Upadhyay, <u>N. Thakur</u>, R. Pradeep, N. Craswell, D. Campos, J. Lin<br>
+  <strong>Preprint 2026</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2603.09891"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://huggingface.co/TREC-RAG"><i class="fas fa-database"></i> Dataset</a>
+  </div>
+</div>
 
 <!-- 2026 -->
 <div class="card preprint" data-year="2026" data-conf="preprint">
@@ -379,6 +374,26 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 {% endraw %}
 
 ## Old Updates
+
+<details markdown="1"><summary><b>2025</b></summary>
+- **[Dec 2025]** :star: FreshStack received the honourable mention for the "Best 2025 Search Project" by [BCS, The Chartered Institute for IT Search Solutions](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/awards/bcs-search-industry-awards/).
+- **[Oct 2025]** :speaking_head: Invited talk at IISC Bangalore on [*Beyond Models: Rethinking Benchmarks, Data, and Evaluation for Retrieval-Augmented Generation*](https://cds.iisc.ac.in/events/seminar-cds-102-october-09th-1200-beyond-models-rethinking-benchmarks-data-and-evaluation-for-retrieval-augmented-generation/).
+- **[Oct 2025]** :fire: FreshStack is now a part of the [RTEB benchmark](https://huggingface.co/blog/rteb).
+- **[Sep 2025]** :speaking_head: Invited talk at Microsoft Research India, Bangalore on our Relabeling Hard Negatives (RLHN) work!
+- **[Sep 2025]** :star: FreshStack has been accepted at the NeurIPS 2025 Datasets & Benchmark Track.
+- **[Aug 2025]** :bulb: Acting as a PC Member for the [BREV-RAG](http://sakailab.com/brev-rag/) (Beyond Relevance-based EValuation of RAG systems) workshop being held at SIGIR-AP 2025!
+- **[Aug 2025]** :book: Checkout the [Beyond-RAG mini-book](https://drive.google.com/drive/folders/1Wv7KOOUMQkEH5ab0X5rQOBnFUvK1TXH_?usp=sharing) by Hamel which condensed five important research talks in the RAG series. The second chapter covers my RAG evaluation guest talk!
+- **[Aug 2025]** :speaking_head: I gave a guest lecture on Modern IR Evaluation in the RAG Era at Mila, Montreal!
+- **[Jun 2025]** :speaking_head: My invited guest lecture with over 400+ participants on Modern IR Evaluation in the RAG Era is available now! [[YouTube]](https://www.youtube.com/watch?v=Trps2swgeOg)
+- **[Jun 2025]** :speaking_head: I was invited at Weaviate Podcast to talk about RAG benchmarks, Check out the video now! [[YouTube]](https://www.youtube.com/watch?v=x9zZ03XtAuY)
+- **[Jun 2025]** :speaking_head: I have been invited to talk at Hamel's mini RAG course on "Modern Information Retrieval Evaluation In The RAG Era". Sign up here: [[https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era]](https://maven.com/p/fae749/modern-ir-evaluation-in-the-generative-rag-era).
+- **[May 2025]** :page_facing_up: Our new work on nuggetizing search arena RAG answers is available as a preprint now!
+- **[Apr 2025]** :page_facing_up: My exciting internship work at Databricks on FreshStack to create realistic RAG benchmarks is available on arXiv!
+- **[Apr 2025]** :partying_face: Our TREC 2024 RAG support and Nuggets preprints have been accepted at SIGIR 2025!
+- **[Jan 2025]** :speaking_head: Gave a research talk on "*Accelerating Multilingual RAG Systems*" at Microsoft Research, Bangalore. [[video]](https://www.youtube.com/watch?v=usvu6Sk1ynk).
+- **[Jan 2025]** :page_facing_up: My work during my internship at Vectara on "*MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems*" is now accepted at NAACL 2025.
+- **[Jan 2025]** :page_facing_up: Our contribution on including MIRACL in "MMTEB: Massive Multilingual Text Embedding Benchmark" is now accepted at ICLR 2025.
+</details>
 
 <details markdown="1"><summary><b>2024</b></summary>
 - **[Dec 2024]** :page_facing_up: My work on "Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track" has been accepted at **ECIR 2025 (Resource)**.
