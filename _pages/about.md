@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color: #ffdddd; 
+<!-- <div style="background-color: #ffdddd; 
             border-left: 6px solid #ff4c4c; 
             border-radius: 8px; 
             padding: 16px 20px; 
@@ -16,7 +16,7 @@ redirect_from:
             color: #660000;">
   <strong>📢 I am on the job market!</strong> Seeking academic/industry opportunities starting Spring 2026, preferably in India. Contact me at 
   <a href="mailto:nandan.thakur@uwaterloo.ca" style="color: #b30000; text-decoration: underline;">nandan.thakur@uwaterloo.ca</a>.
-</div>
+</div> -->
 
 :wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(fourth)~~ final-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
 
