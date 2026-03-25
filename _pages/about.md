@@ -18,9 +18,11 @@ redirect_from:
   <a href="mailto:nandan.thakur@uwaterloo.ca" style="color: #b30000; text-decoration: underline;">nandan.thakur@uwaterloo.ca</a>.
 </div> -->
 
-:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a ~~(fourth)~~ final-year PhD student in Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a PhD graduate in Computer Science from the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD was supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
 
 📄 [View my CV (Fall 2025)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_November_2025.pdf)
+
+🎓 PhD Defence [(slides)](https://thakur-nandan.github.io/files/nandan-phd-slides-final.pdf)
 
 ## :mag: Research
 
@@ -36,6 +38,13 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: Recent Updates
+- **[Mar 2026]** :mortar_board: I have successfully defended my PhD thesis on "*Benchmarks, Data, Evaluation for Robust IR and RAG on Heterogeneous Domains and Languages*" at the University of Waterloo! [[Twitter/X]](https://x.com/beirmug/status/2036289152916893975) [[LinkedIn]](https://www.linkedin.com/posts/nthakur20_as-of-march-23rd-ive-officially-become-ugcPost-7442181604120121344-5sJk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGfJqEBqxIPovWRXAtKbOH5dwppnGmxP9c)
+
+<div style="text-align: center; margin: 12px 0;">
+  <img src="/images/phd-defence.jpeg" alt="PhD Defense at the University of Waterloo" style="max-width: 600px; width: 100%; border-radius: 8px;">
+  <p style="font-size: 0.85em; color: #666; margin-top: 6px;">PhD Defense — University of Waterloo, March 23, 2026</p>
+</div>
+
 - **[Mar 2026]** :fire: Our TREC 2025 RAG track overview paper is now available: [arxiv.org/abs/2603.04532](https://arxiv.org/abs/2603.09891)!
 - **[Mar 2026]** :grin: FreshStack recently got included in [KARLBench](https://arxiv.org/abs/2603.05218v1) by Databricks and a proud moment as an advisor mentoring two amazing URA's analyzing temporal drift in FreshStack LangChain: [arxiv.org/abs/2603.04532](https://arxiv.org/abs/2603.04532).
 - **[Jan 2026]** :partying_face: We hosted the second iteration of the RAG Track at TREC RAG 2025, we appreciate all the teams that participated in the track!
