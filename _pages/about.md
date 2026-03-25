@@ -20,7 +20,7 @@ redirect_from:
 
 :wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a PhD graduate in Computer Science from the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD was supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
 
-📄 [View my CV (Fall 2025)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_November_2025.pdf)
+📄 [View my CV (Last Updated: Mar 2026)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_March_2026.pdf)
 
 🎓 PhD Defence [(slides)](https://thakur-nandan.github.io/files/nandan-phd-slides-final.pdf)
 
