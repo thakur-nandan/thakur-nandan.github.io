@@ -31,13 +31,14 @@ I focus on three core aspects focused around evaluation, data in information ret
 - **Designing efficient retrieval systems** that balance quality and cost, generalize well to challenging domains
 - **Standardizing RAG evaluation** to build a more principled foundation within the IR & NLP community
 
-In my research, I've developed widely used retrieval benchmarks such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai), and trained efficient retrieval models like [GPL](https://arxiv.org/abs/2205.11498) or [SWIM-IR](https://arxiv.org/abs/2311.05800). This advances accelerate RAG systems--such as [TREC-RAG](https://trec-rag.github.io)--to produce better language model answers by (i) leveraging cleaner training data (e.g., [RLHN](https://arxiv.org/abs/2505.16967)) (ii) reducing hallucinations across domains and languages (e.g., [NoMIRACL](https://arxiv.org/abs/2312.11361), [MIRAGE-Bench](https://arxiv.org/abs/2410.13716)), and (iii) enabling evaluation on realistic benchmarks and metrics (e.g., [FreshStack](https://arxiv.org/abs/2504.13128)).
+In my research, I've developed widely used retrieval benchmarks such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai), and trained efficient retrieval models like [GPL](https://arxiv.org/abs/2205.11498) or [SWIM-IR](https://arxiv.org/abs/2311.05800). This advances accelerate RAG systems--such as [TREC-RAG](https://trec-rag.github.io)--to produce better language model answers by (i) leveraging cleaner training data or generating synthetic data (e.g., [RLHN](https://arxiv.org/abs/2505.16967), [ORBIT](https://arxiv.org/abs/2604.01195)) (ii) reducing hallucinations across domains and languages (e.g., [NoMIRACL](https://arxiv.org/abs/2312.11361), [MIRAGE-Bench](https://arxiv.org/abs/2410.13716)), and (iii) enabling evaluation on realistic benchmarks and metrics (e.g., [FreshStack](https://arxiv.org/abs/2504.13128)).
 
 ## :arrow_backward: Past
 
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: Recent Updates
+- **[Apr 2026]** :fire: My final PhD work on synthetic training datasets for search agents, preprint available: [ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195)!
 - **[Mar 2026]** :mortar_board: I have successfully defended my PhD thesis on "*Benchmarks, Data, Evaluation for Robust IR and RAG on Heterogeneous Domains and Languages*" at the University of Waterloo! [[Twitter/X]](https://x.com/beirmug/status/2036289152916893975) [[LinkedIn]](https://www.linkedin.com/posts/nthakur20_as-of-march-23rd-ive-officially-become-ugcPost-7442181604120121344-5sJk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGfJqEBqxIPovWRXAtKbOH5dwppnGmxP9c)
 
 <div style="text-align: center; margin: 12px 0;">
@@ -102,6 +103,16 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 <div class="publications-grid">
 
 <!-- 2026 -->
+<div class="card preprint" data-year="2026" data-conf="preprint">
+  <strong>ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget</strong><br>
+  <u>N. Thakur</u>, Z. Chen, X. Ma, J. Lin<br>
+  <strong>Preprint 2026</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2604.01195"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://huggingface.co/orbit-ai"><i class="fas fa-database"></i> Dataset</a>
+    <a href="https://github.com/castorini/orbit"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
 <div class="card preprint" data-year="2026" data-conf="preprint">
   <strong>Overview of the TREC 2025 Retrieval Augmented Generation (RAG) Track</strong><br>
   S. Upadhyay, <u>N. Thakur</u>, R. Pradeep, N. Craswell, D. Campos, J. Lin<br>

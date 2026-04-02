@@ -9,14 +9,14 @@ redirect_from:
 
 Here is my Academic CV in the PDF format (Last updated in September 2024):
 
-<embed src="https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_November_2025.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_March_2026.pdf" type="application/pdf" width="600px" height="500px" />
 <p></p>
 
 # Academic CV (Text Format)
 
 Education
 ======
-* Ph.D. in Computer Science, University of Waterloo, April 2026 (expected)
+* Ph.D. in Computer Science, University of Waterloo, April 2026
 * B.E. (Hons.) in Electronics & Instrumentation, BITS Pilani, 2018
 
 Research Experience
