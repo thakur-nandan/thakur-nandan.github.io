@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is my Academic CV in the PDF format (Last updated in September 2024):
+Here is my Academic CV in the PDF format (Last updated in March 2026):
 
 <embed src="https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_March_2026.pdf" type="application/pdf" width="600px" height="500px" />
 <p></p>

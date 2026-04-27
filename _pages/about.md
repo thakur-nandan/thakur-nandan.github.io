@@ -20,9 +20,7 @@ redirect_from:
 
 :wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a PhD graduate in Computer Science from the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD was supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
 
-📄 [View my CV (Last Updated: Mar 2026)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_March_2026.pdf)
-
-🎓 PhD Defence [(slides)](https://thakur-nandan.github.io/files/nandan-phd-slides-final.pdf)
+📄 [View my CV (March 2026)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_March_2026.pdf) &nbsp;|&nbsp; 🎓 PhD Defence [(slides)](https://thakur-nandan.github.io/files/nandan-phd-slides-final.pdf) [(thesis)](https://hdl.handle.net/10012/23053) &nbsp;|&nbsp; 📚 [Google Scholar](https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en)
 
 ## :mag: Research
 
@@ -38,6 +36,7 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: Recent Updates
+- **[Apr 2026]** :scroll: My PhD thesis on "*Benchmarks, Data, and Evaluation for Robust Retrieval and Retrieval-Augmented Generation on Heterogeneous Domains and Languages*" is now publicly available! [[UWSpace]](https://hdl.handle.net/10012/23053)
 - **[Apr 2026]** :fire: My final PhD work on synthetic training datasets for search agents, preprint available: [ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195)!
 - **[Mar 2026]** :mortar_board: I have successfully defended my PhD thesis on "*Benchmarks, Data, Evaluation for Robust IR and RAG on Heterogeneous Domains and Languages*" at the University of Waterloo! [[Twitter/X]](https://x.com/beirmug/status/2036289152916893975) [[LinkedIn]](https://www.linkedin.com/posts/nthakur20_as-of-march-23rd-ive-officially-become-ugcPost-7442181604120121344-5sJk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGfJqEBqxIPovWRXAtKbOH5dwppnGmxP9c)
 
