@@ -134,10 +134,10 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 </div>
 
 <!-- 2025 -->
-<div class="card neurips" data-year="2025" data-conf="NeurIPS">
+<div class="card acl" data-year="2025" data-conf="acl">
   <strong>BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent</strong><br>
   Z. Chen, X. Ma, ..., <u>N. Thakur</u>, ... J. Lin<br>
-  <strong>MTI-LLM @ NeurIPS 2025</strong><br>
+  <strong>ACL 2026 | MTI-LLM @ NeurIPS 2025</strong><br>
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2508.06600"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://texttron.github.io/BrowseComp-Plus/"><i class="fas fa-globe"></i> Website</a>
