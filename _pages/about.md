@@ -24,7 +24,7 @@ redirect_from:
 
 🎓 PhD Defence [(slides)](https://thakur-nandan.github.io/files/nandan-phd-slides-final.pdf) [(thesis)](https://hdl.handle.net/10012/23053)
 
-✉️ [nandan.thakur@uwaterloo.ca](mailto:nandan.thakur@uwaterloo.ca) | 📚 [Google Scholar](https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en)
+✉️ For any inquiries, send email to: [nandan.thakur@uwaterloo.ca](mailto:nandan.thakur@uwaterloo.ca), 📚 [(Google Scholar)](https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en)
 
 ## :mag: Research
 
