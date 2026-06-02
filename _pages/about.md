@@ -40,6 +40,8 @@ In my research, I've developed widely used retrieval benchmarks such as [BEIR](h
 Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/). I have prior industry experience as a Data Scientist working at KNOLSKAPE. I completed my undergraduate from BITS Pilani KK Birla Goa Campus.
 
 ## :fire: Recent Updates
+
+- **[May 2026]** :speaking: My new Weaviate Podcast on Search Agents is now available. Check out the video now! [[YouTube]](https://www.youtube.com/watch?v=B71WF6EtgK8)
 - **[Apr 2026]** :scroll: My PhD thesis on "*Benchmarks, Data, and Evaluation for Robust Retrieval and Retrieval-Augmented Generation on Heterogeneous Domains and Languages*" is now publicly available! [[UWSpace]](https://hdl.handle.net/10012/23053)
 - **[Apr 2026]** :fire: My final PhD work on synthetic training datasets for search agents, preprint available: [ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195)!
 - **[Mar 2026]** :mortar_board: I have successfully defended my PhD thesis on "*Benchmarks, Data, Evaluation for Robust IR and RAG on Heterogeneous Domains and Languages*" at the University of Waterloo! [[Twitter/X]](https://x.com/beirmug/status/2036289152916893975) [[LinkedIn]](https://www.linkedin.com/posts/nthakur20_as-of-march-23rd-ive-officially-become-ugcPost-7442181604120121344-5sJk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGfJqEBqxIPovWRXAtKbOH5dwppnGmxP9c)
@@ -56,6 +58,9 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 ## Selected Talks & Recordings
 
 <div class="media-widgets">
+  <div class="widget">
+    {% include spotify_episode.html id="3xuNpIHv2q8sQki5J8R9NS" %}
+  </div>
   <div class="widget">
     {% include spotify_episode.html id="5vj6fr5SLPDvpj4nWE9Qqr" %}
   </div>
@@ -106,6 +111,38 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 <div class="publications-grid">
 
 <!-- 2026 -->
+<div class="card sigir" data-year="2026" data-conf="SIGIR">
+  <strong>Automating Generation of Long-Form Queries</strong><br>
+  S. Upadhyay, D. Campos, <u>N. Thakur</u>, R. Pradeep, N. Craswell, J. Lin<br>
+  <strong>SIGIR 2026</strong><br>
+  <div class="publication-links">
+    <a href="https://cs.uwaterloo.ca/~jimmylin/publications/Upadhyay_etal_SIGIR2026.pdf"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://github.com/castorini/narrative-generation"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
+
+
+<div class="card sigir" data-year="2026" data-conf="SIGIR">
+  <strong>Chatbot Arena Meets Nuggets: Towards Explanations & Diagnostics in the Evaluation of LLM Responses</strong><br>
+  S. Sharifymoghaddam*, S. Upadhyay*, <u>N. Thakur*</u>, R. Pradeep, J. Lin<br>
+  <strong>ICTIR 2026</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2504.20006"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://huggingface.co/datasets/castorini/search-arena-v1-nuggets-with-urls-5k"><i class="fas fa-database"></i> Dataset</a>
+    <a href="https://github.com/castorini/lmsys_nuggetize"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
+
+<div class="card preprint" data-year="2026" data-conf="preprint">
+  <strong>Still Fresh? Evaluating Temporal Drift in Retrieval Benchmarks</strong><br>
+  N. Kuissi, S. Subrahmanyan, <u>N. Thakur</u>, J. Lin<br>
+  <strong>Preprint 2026</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2603.04532"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://github.com/fresh-stack/driftbench"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
+
 <div class="card preprint" data-year="2026" data-conf="preprint">
   <strong>ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget</strong><br>
   <u>N. Thakur</u>, Z. Chen, X. Ma, J. Lin<br>
@@ -123,17 +160,6 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
   <div class="publication-links">
     <a href="https://arxiv.org/abs/2603.09891"><i class="fas fa-file-alt"></i> Paper</a>
     <a href="https://huggingface.co/TREC-RAG"><i class="fas fa-database"></i> Dataset</a>
-  </div>
-</div>
-
-<!-- 2026 -->
-<div class="card preprint" data-year="2026" data-conf="preprint">
-  <strong>Still Fresh? Evaluating Temporal Drift in Retrieval Benchmarks</strong><br>
-  N. Kuissi, S. Subrahmanyan, <u>N. Thakur</u>, J. Lin<br>
-  <strong>Preprint 2026</strong><br>
-  <div class="publication-links">
-    <a href="https://arxiv.org/abs/2603.04532"><i class="fas fa-file-alt"></i> Paper</a>
-    <a href="https://github.com/fresh-stack/driftbench"><i class="fas fa-code"></i> Code</a>
   </div>
 </div>
 
@@ -158,17 +184,6 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
     <a href="https://aclanthology.org/2025.findings-emnlp.481/"><i class="fas fa-file-alt"></i> Paper</a>
     | <a href="https://huggingface.co/rlhn"><i class="fas fa-database"></i> Dataset</a>
     | <a href="https://github.com/castorini/rlhn"><i class="fas fa-code"></i> Code</a>
-  </div>
-</div>
-
-<div class="card preprint" data-year="2025" data-conf="preprint">
-  <strong>Chatbot Arena Meets Nuggets: Towards Explanations & Diagnostics in the Evaluation of LLM Responses</strong><br>
-  S. Sharifymoghaddam*, S. Upadhyay*, <u>N. Thakur*</u>, R. Pradeep, J. Lin<br>
-  <strong>Preprint 2025</strong><br>
-  <div class="publication-links">
-    <a href="https://arxiv.org/abs/2504.20006"><i class="fas fa-file-alt"></i> Paper</a>
-    <a href="https://huggingface.co/datasets/castorini/search-arena-v1-nuggets-with-urls-5k"><i class="fas fa-database"></i> Dataset</a>
-    <a href="https://github.com/castorini/lmsys_nuggetize"><i class="fas fa-code"></i> Code</a>
   </div>
 </div>
 
