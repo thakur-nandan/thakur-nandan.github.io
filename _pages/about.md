@@ -18,7 +18,31 @@ redirect_from:
   <a href="mailto:nandan.thakur@uwaterloo.ca" style="color: #b30000; text-decoration: underline;">nandan.thakur@uwaterloo.ca</a>.
 </div> -->
 
-:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a PhD graduate in Computer Science from the [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD was supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
+<div style="background: linear-gradient(135deg, #f3f1ff 0%, #eceaff 100%);
+            border-left: 6px solid #5b4bd6;
+            border-radius: 10px;
+            padding: 18px 22px;
+            margin: 0 0 28px 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #2b2166;
+            box-shadow: 0 2px 6px rgba(91, 75, 214, 0.12);">
+  <div style="font-size: 1.05em; line-height: 1.55;">
+    <strong>📰 In the news:</strong>
+    My article
+    <a href="https://www.linkedin.com/pulse/why-am-i-returning-india-after-my-phd-nandan-thakur-eumvf/" style="color: #4a3bc4; text-decoration: underline; font-weight: 600;">“Why am I returning to India after my PhD?”</a>
+    struck a chord and has been covered by major national media.
+  </div>
+  <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px;">
+    <a href="https://indianexpress.com/article/trending/trending-in-india/phd-couple-returns-to-india-from-canada-nandan-thakur-10838292/" style="display: inline-block; background: #ffffff; border: 1px solid #cdc6f5; border-radius: 999px; padding: 5px 13px; color: #4a3bc4; text-decoration: none; font-size: 0.88em; font-weight: 600;">The Indian Express</a>
+    <a href="https://www.hindustantimes.com/trending/microsoft-researcher-explains-why-he-returned-to-india-from-canada-never-felt-belongingness-to-the-country-101786975283096.html" style="display: inline-block; background: #ffffff; border: 1px solid #cdc6f5; border-radius: 999px; padding: 5px 13px; color: #4a3bc4; text-decoration: none; font-size: 0.88em; font-weight: 600;">Hindustan Times</a>
+    <a href="https://www.ndtv.com/feature/microsoft-researcher-returns-to-india-after-completing-phd-in-canada-closer-to-friends-and-family-11922433" style="display: inline-block; background: #ffffff; border: 1px solid #cdc6f5; border-radius: 999px; padding: 5px 13px; color: #4a3bc4; text-decoration: none; font-size: 0.88em; font-weight: 600;">NDTV</a>
+    <a href="https://x.com/beirmug/status/2088677209359945954" style="display: inline-block; background: #ffffff; border: 1px solid #cdc6f5; border-radius: 999px; padding: 5px 13px; color: #4a3bc4; text-decoration: none; font-size: 0.88em; font-weight: 600;">Twitter/X</a>
+  </div>
+</div>
+
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). I'm a Postdoctoral Researcher at [Microsoft Research India](https://www.microsoft.com/en-us/research/people/t-nthakur/), working on constructing enterprise-grade retrieval evaluation benchmarks.
+
+I completed my PhD in Computer Science from [University of Waterloo](https://cs.uwaterloo.ca/) advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD was supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024-2026). During my PhD, I have interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Microsoft and Huawei. 
 
 📄 [View my CV (Last Updated: March 2026)](https://thakur-nandan.github.io/files/Nandan_Thakur_Final_CV_March_2026.pdf)
 
@@ -41,6 +65,7 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 
 ## :fire: Recent Updates
 
+- **[Aug 2026]** :newspaper: My article on why I chose to return to India after my PhD struck a chord and was covered by national media, including The Indian Express, Hindustan Times and NDTV. [[Article]](https://www.linkedin.com/pulse/why-am-i-returning-india-after-my-phd-nandan-thakur-eumvf/) [[Indian Express]](https://indianexpress.com/article/trending/trending-in-india/phd-couple-returns-to-india-from-canada-nandan-thakur-10838292/) [[Hindustan Times]](https://www.hindustantimes.com/trending/microsoft-researcher-explains-why-he-returned-to-india-from-canada-never-felt-belongingness-to-the-country-101786975283096.html) [[NDTV]](https://www.ndtv.com/feature/microsoft-researcher-returns-to-india-after-completing-phd-in-canada-closer-to-friends-and-family-11922433) [[Twitter/X]](https://x.com/beirmug/status/2088677209359945954)
 - **[May 2026]** :speaking: My new Weaviate Podcast on Search Agents is now available. Check out the video now! [[YouTube]](https://www.youtube.com/watch?v=B71WF6EtgK8)
 - **[Apr 2026]** :scroll: My PhD thesis on "*Benchmarks, Data, and Evaluation for Robust Retrieval and Retrieval-Augmented Generation on Heterogeneous Domains and Languages*" is now publicly available! [[UWSpace]](https://hdl.handle.net/10012/23053)
 - **[Apr 2026]** :fire: My final PhD work on synthetic training datasets for search agents, preprint available: [ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195)!
@@ -110,6 +135,16 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
 
 <div class="publications-grid">
 
+<div class="card emnlp" data-year="2026" data-conf="EMNLP">
+  <strong>Retrieval Evaluation Under Temporal Drift in Technical Documentation</strong><br>
+  N. Kuissi*, S. Subrahmanyan*, <u>N. Thakur*</u>, J. Lin<br>
+  <strong>EMNLP 2026 (Findings)</strong><br>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2603.04532"><i class="fas fa-file-alt"></i> Paper</a>
+    <a href="https://github.com/fresh-stack/driftbench"><i class="fas fa-code"></i> Code</a>
+  </div>
+</div>
+
 <!-- 2026 -->
 <div class="card sigir" data-year="2026" data-conf="SIGIR">
   <strong>Automating Generation of Long-Form Queries</strong><br>
@@ -130,16 +165,6 @@ Prior to my PhD, I was a NLP research assistant at the [UKP Lab](https://www.inf
     <a href="https://arxiv.org/abs/2504.20006"><i class="fas fa-file-alt"></i> Paper</a>
     <a href="https://huggingface.co/datasets/castorini/search-arena-v1-nuggets-with-urls-5k"><i class="fas fa-database"></i> Dataset</a>
     <a href="https://github.com/castorini/lmsys_nuggetize"><i class="fas fa-code"></i> Code</a>
-  </div>
-</div>
-
-<div class="card preprint" data-year="2026" data-conf="preprint">
-  <strong>Still Fresh? Evaluating Temporal Drift in Retrieval Benchmarks</strong><br>
-  N. Kuissi, S. Subrahmanyan, <u>N. Thakur</u>, J. Lin<br>
-  <strong>Preprint 2026</strong><br>
-  <div class="publication-links">
-    <a href="https://arxiv.org/abs/2603.04532"><i class="fas fa-file-alt"></i> Paper</a>
-    <a href="https://github.com/fresh-stack/driftbench"><i class="fas fa-code"></i> Code</a>
   </div>
 </div>
 
