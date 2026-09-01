@@ -30,7 +30,7 @@ redirect_from:
     <strong>📰 In the news:</strong>
     My article
     <a href="https://www.linkedin.com/pulse/why-am-i-returning-india-after-my-phd-nandan-thakur-eumvf/" style="color: #4a3bc4; text-decoration: underline; font-weight: 600;">“Why am I returning to India after my PhD?”</a>
-    struck a chord and has been covered by major national media.
+    has recently been much appreciated by the community.
   </div>
   <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px;">
     <a href="https://indianexpress.com/article/trending/trending-in-india/phd-couple-returns-to-india-from-canada-nandan-thakur-10838292/" style="display: inline-block; background: #ffffff; border: 1px solid #cdc6f5; border-radius: 999px; padding: 5px 13px; color: #4a3bc4; text-decoration: none; font-size: 0.88em; font-weight: 600;">The Indian Express</a>
